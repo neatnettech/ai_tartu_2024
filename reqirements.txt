@@ -1,3 +1,6 @@
 torch
 torchvision
+streamlit
+Pillow
+numpy
 segmentation-models-pytorch
