@@ -1,0 +1,3 @@
+torch
+torchvision
+segmentation-models-pytorch
