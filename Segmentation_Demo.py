@@ -20,7 +20,7 @@ def segmentation_demo():
     if model_weights is not None:
         ### BEGIN SOLUTION
         # Define the model using the same architecture as used during training.
-        model = smp.Unet(encoder_name="resnet34", encoder_weights=None, in_channels=3, classes=1)
+        model = smp.Unet(encoder_name="resnet18", encoder_weights="imagenet", in_channels=3, classes=1)
         ### END SOLUTION
 
         ### BEGIN SOLUTION
@@ -45,17 +45,10 @@ def segmentation_demo():
         if image is not None:
             ### BEGIN SOLUTION
             # Apply the transformations and convert the image to a tensor
-            tensor = transforms(tv_tensors.Image(image))
-            ### END SOLUTION
-
-            # Add batch dimension
-            tensor = tensor[None, ...]
-
-            # Do the forward pass (don't forget `torch.no_grad()`!)
-            ### BEGIN SOLUTION
-
-            ### END SOLUTION
-
+            tensor = transforms(tv_tensors.Image(image))[None, ...]
+            with torch.no_grad():
+                # Do the forward pass
+                mask = model(tensor).numpy().clip(0, 1)
             # Show image
             st.image(mask[0, 0], "Predicted mask")
 
