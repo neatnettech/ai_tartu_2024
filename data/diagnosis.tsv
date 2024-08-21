@@ -1,0 +1,1001 @@
+id	diagcode	diagname	patient	date	gender	birthyear
+2420	E66.0	Liigsete kalorite põhjustatud rasvumus; BMI 54	991	2,01112E+13	N	1963
+2551	E66.0	Liigsete kalorite põhjustatud rasvumus; BMI 54	991	2,01007E+13	N	1963
+2687	Z01.7	Laboratoorne uuring	991	20130302	N	1963
+2893	M62	Lihase muud haigusseisundid	991	2,01305E+11	N	1963
+2972	L03	Tselluliit	991	20130310	N	1963
+3169	Z12.3	Eri-sõeluuring rinnanäärmekasvaja avastamiseks	991	2,01303E+13		
+3211	M43.0	Lülilahustus e spondülolüüs	991	2,0141E+13	N	1963
+3265	H81.8	Vestibulaarfunktsiooni muud haigusseisundid	991	20120304	f	1963
+3333	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	991	2,01411E+11	N	1963
+3367	M54.2	Kaelavalu e tservikalgia	991	20140713	N	1963
+2457	M20.4	Muud (omandatud) haamervarbad	985	2,01412E+11	M	1973
+2580	M20.2	Omandatud kangestunud suurvarvas	985	2,0121E+13	M	1973
+2862	F10..0	Alkoholi tarvitamisest tingitud psüühika- ja käitumishäired	985	2,0111E+13	M	1973
+2923	H10.8	Muu konjunktiviit	985	2,01108E+11	M	1973
+2994	H19.3	Keratiit ja keratokonjunktiviit muude mujal klassifitseeritud haiguste korral	985	2,01101E+11	M	1973
+3270	H10.3	Täpsustamata äge konjunktiviit	985	2,01301E+13	M	1973
+2675	R29.8	Närvisüsteemi ja lihasluukonnaga seotud muud ning täpsustamata sümptomid ja tunnused	981	2,01412E+13	M	2013
+2747	R29	Närvisüsteemi ning lihasluukonnaga seotud muud sümptomid ja tunnused	981	2,01407E+11	M	2013
+3269	Z00.1	Lapse tervise tavaläbivaatus	981	2,01403E+11	M	2013
+3303	Z00.1	Lapse tervise tavaläbivaatus	981	2,01407E+11	M	2013
+2521	Z12.4	Eri-sõeluuring kasvajate avastamiseks, eri-sõeluuring emakakaelakasvaja avastamiseks	978	2,01409E+13	N	1981
+2761	M25.5	Liigesevalu	978	2,01403E+11	N	1981
+3001	O70.1	Sünnitusaegne teise astme lahkliharebend	978	2,01107E+13	N	1981
+3218	S93.4	Kannadistorsioon ja -distensioon	977	2,01311E+13	M	1990
+2416	B34.9	Täpsustamata viirusnakkus	971	2,01101E+11	M	2004
+2529	Z00.0	Meditsiiniline üldläbivaatus	971	2,01305E+11	M	2004
+2738	R30.0	Kusemishäire	971	2,01112E+13	M	2004
+2934	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	971	2,01102E+11	M	2004
+3131	H65.0	Äge seroosne keskkõrvapõletik	971	2,01208E+13	M	2004
+3390	B34.9	Täpsustamata viirusnakkus	971	2,01209E+11	M	2004
+2493	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	969	2,00812E+11	N	1937
+2635	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	969	2,00905E+11	N	1937
+2431	M07.3	Muud psoriaatilised artropaatiad	961	2,0101E+13	N	1969
+2456	M07.3	Muud psoriaatilised artropaatiad	961	2,01111E+13	N	1969
+2654	M07.3	Muud psoriaatilised artropaatiad	961	2,01302E+13	N	1969
+2748	M07.3	Muud psoriaatilised artropaatiad	961	2,01209E+13	N	1969
+2773	M07.3	Muud psoriaatilised artropaatiad	961	2,01012E+13	N	1969
+2916	M07.3	Muud psoriaatilised artropaatiad	961	2,01211E+13	N	1969
+3181	K04.4	Säsist lähtunud äge apikaalne periodontiit	961	2,01202E+13	N	1969
+3184	Z71.8	Muu täpsustatud nõustamine	961	2,01407E+13	N	1969
+2692	Z11.3	Eri-sõeluuring peamiselt suguliselt levivate nakkushaiguste avastamiseks	960	2,01304E+11	N	1993
+2590	Z01.4	Kaebusteta ja eelneva diagnoosita isiku muud eriläbivaatused ja -uurimised, günekoloogiline läbivaatus (üldine; tava-)	957	2,01212E+13	N	1971
+2973	Z03.9	Jälgimine täpsustamata kahtlustatud haiguse või seisundi suh	957	2,01301E+13	N	1971
+3057	H52.1	MÜOOPIA E LÜHINÄGEVUS	957	2,01301E+13	N	1971
+2471	J45.1	Mitteallergiline astma	949	2,01201E+11	M	2001
+2598	J45.0	Valdavalt allergiline astma	949	2,01101E+11	M	2001
+2711	J45.0	Asthma, praesertim allergicum	949	2,01105E+11	M	2001
+2715	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	949	2,0141E+11	M	2001
+2892	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	949	2,01208E+11	M	2001
+2910	J45.1	Mitteallergiline astma	949	2,01401E+11	M	2001
+3085	Z03.5	Jälgimine muu kahtlustatud kardiovaskulaarse haiguse suhtes	949	2,01403E+13	M	2001
+3274	J45.0	Valdavalt allergiline astma	949	2,01205E+13	m	2001
+3262	J01.0	ÄGE ÜLALÕUAURKEPÕLETIK E MAKSILLAARSINU[S]IIT E HAIMORIIT	948	2,01112E+13	N	1981
+2670	M47.2	Muu spondüloos radikulopaatiaga; kaela- ja nimmeosas	939	2,01103E+13	N	1968
+2688	Z02.4	Läbivaatus juhiloa saamiseks	939	2,01411E+11	N	1968
+2786	E21.0	Esmane e primaarne hüperparatüreoos	939	2,01005E+13	N	1968
+2832	E89.0	Mujal klassifitseerimata menetlusjärgsed sisesekretsiooni- ja ainevahetushäired, menetlusjärgne hüpotüreoos	939	2,01304E+11	N	1968
+2988	D35.1	Kõrvalkilpnäärme healoomuline kasvaja	939	2,01301E+13	N	1968
+3047	I73.0	Raynaud sündroom	939	2,01212E+13	N	1968
+3053	E89.0	Mujal klassifitseerimata menetlusjärgsed sisesekretsiooni- ja ainevahetushäired, menetlusjärgne hüpotüreoos	939	2,01311E+11	N	1968
+3124	H52.4	Presbüoopia e vanaeanägevus	939	2,01301E+11	N	1968
+3145	M42	Spinaal- e lülisamba osteokondroos	939	2,0141E+11	N	1968
+2491	G47.3	Uneapnoe	938	2,01304E+13	N	1949
+2568	Z30.4	Kontratseptiivsete ravimite järelevalve	933	2,01404E+11	N	1984
+2822	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	933	2,01212E+11	N	1984
+2859	B34	Tta paikme viirusnakkus	933	2,01112E+11	N	1984
+2905	M25.5	Liigesevalu	933	2,01102E+11	N	1984
+3035	N84.0	Emakakehapolüüp	933	2,0121E+11	N	1984
+2864			929	2,01405E+11	N	1975
+3296	M54	Dorsalgia e seljavalu	929	2,01405E+11	N	1975
+3376	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	929	2,01107E+11	N	1975
+3382	Z30.1	(Emakasisese) kontratseptiivseadme paigaldamine	929	2,01107E+11	N	1975
+2414	Z24.1	Immuniseerimise vajadus lülijalgselevitatava viirusentsefaliidi vastu	922	2,01307E+11	N	1946
+2426	L85.9	Tapsustamata epidermise paksenemus	922	2,01108E+13	N	1946
+2911	M54.1	RADICULOPAATIA	922	2,01311E+13	N	1946
+3049	Z24.1	Immuniseerimise vajadus lülijalgselevitatava viirusentsefaliidi vastu	922	2,01307E+11	N	1946
+3068	M54.5	Nimmevalu	922	2,01311E+11	N	1946
+3136	M15.8	Muud polüartroosid	922	2,01105E+11	N	1946
+3332	Z01.4	Kaebusteta ja eelneva diagnoosita isiku emakakaela Papanicolaou-äigepreparaat	922	2,01003E+13	N	1946
+2490	H65	Mädata keskkõrvapõletik	918	2,0141E+11	M	2012
+2696	Z01.1	Kõrvade läbivaatus ja kuulmise uurimine	918	2,01407E+13	M	2012
+3006	L20.9	Täpsustamata atoopiline dermatiit	918	2,01208E+13	M	2012
+3235	J00	Äge nasofarüngiit e nina-neelupõletik (tavaline nohu)	918	2,01212E+13	M	2012
+2510	M77.3	Kannakannus	898	2,01408E+13	N	1947
+2527	I21.4	Äge subendokardiaalne müokardiinfarkt; anterioorne, subendokardiaalne	898	2,01011E+13	N	1947
+2569	M77.3	Kannakannus	898	2,01402E+11	N	1947
+2627	R43.1	Väärhaiste	898	2,01203E+13	N	1947
+2629	I48	Kodade virvendus ja laperdus	898	2,01107E+11	N	1947
+2652			898	2,01403E+11	N	1947
+2663	Z01.4	Kaebusteta ja eelneva diagnoosita isiku günekoloogiline läbivaatus (üldine; tava-); Emakas amputeeritud koos adneksidega 1999.a.	898	2,01011E+13	N	1947
+2665	I25.2	Varasem müokardiinfarkt; 2012	898	2,01107E+13	N	1947
+2673	H93.1	Kõrvavile e tinnitus; sin.	898	2,01105E+13	N	1947
+2770	I25.2	Varasem müokardiinfarkt; 2012 aprill	898	2,0101E+13	N	1947
+2791	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	898	2,01302E+13	N	1947
+2798	I25.2	Varasem müokardiinfarkt	898	2,01206E+13	N	1947
+2808	Z71.3	Toitumisrežiimi alane nõustamine ja järelevalve	898	2,01012E+13	N	1947
+2809	L85.9	Täpsustamata epidermise paksenemus	898	2,01309E+13	N	1947
+2814	I20	Stenokardia e rinnaangiin e rinnaahistus	898	2,01308E+11	N	1947
+2976	I25.2	Varasem müokardiinfarkt; 2012	898	2,01204E+13	N	1947
+3153	L50.0	Allergiline nõgeslööve	898	2,01007E+13	N	1947
+3263	I25.2	Varasem müokardiinfarkt	898	2,01407E+13	N	1947
+3377	K08.1	Hammaste kaotus õnnetuse, ekstraktsiooni e väljatõmbamise või paikse periodontaalse haiguse tõttu	898	2,01008E+13	N	1947
+3395	I48	Kodade virvendus ja laperdus; persisteeriv	898	2,01106E+13	N	1947
+2459	H52.0	Hüpermetroopia e kaugelenägevus	895	2,01303E+13	N	1962
+2466	m75	Õlakahjustused	895	2,0131E+11	N	1962
+2942	M50.1	Morbositas disci cervicalis cum radiculopathia	895	2,01306E+11	N	1962
+2561	J03.9	Täpsustamata äge suulaemandlipõletik	890	2,01401E+11	N	1995
+2576	L70.0	Harilikud vinnid	890	2,01302E+13	N	1995
+2730	M16.1	Koksartroos e puusaliigese artroos, muud esmased koksartroosid	890	2,0141E+13	N	1995
+2896	M87.3	Osteonekroos e luukärbus, muu teisene luukärbus	890	2,01311E+13	N	1995
+3137	M16.1	Koksartroos e puusaliigese artroos, muud esmased koksartroosid	890	2,01409E+13	N	1995
+2442	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	888	2,01409E+11	N	1961
+2844	D69.0	Allergiline purpur	888	2,01204E+13	N	1961
+2448	J45.1	Mitteallergiline astma	881	2,01111E+11	M	2010
+2497	J45.1	Mitteallergiline astma	881	2,01206E+13	M	2010
+2678	J45	Astma	881	2,0141E+11	M	2010
+2805	J45	Astma	881	2,01403E+11	M	2010
+3107	Z27.3	Immuniseerimise vajadus difteeria-teetanuse-läkaköha ja poliomüeliidi vastu	881	2,01205E+11	M	2010
+3122	B34	Tta paikme viirusnakkus	881	2,01312E+11	M	2010
+3239	Z00.1	Lapse tervise tavaläbivaatus	881	2,01101E+11	M	2010
+2438	Z12.4	Eri-sõeluuring kasvajate avastamiseks, eri-sõeluuring emakakaelakasvaja avastamiseks	880	2,01405E+13	N	201
+2544	N42	Eesnäärme muud haigusseisundid	870	2,01108E+11	M	1957
+2775	E11.9	Insuliinsõltumatu suhkurtõbi tüsistusteta	870	2,01112E+11	M	1957
+2939	E12.4	Väärtoitumussuhkurtõbi neuroloogiliste tüsistustega	870	2,01204E+11	M	1957
+2949	K21	Gastro-ösofageaalne e mao-söögitoru tagasivooluhaigus	870	2,01211E+11	M	1957
+3009	E11.9	Insuliinsõltumatu suhkurtõbi tüsistusteta	870	2,01211E+11	M	1957
+3084	E11	Insuliinisõltumatu suhkurtõbi	870	2,01101E+11	M	1957
+3102	E11.9	Insuliinsõltumatu suhkurtõbi tüsistusteta	870	2,01404E+11	M	1957
+3236	K21	Gastro-ösofageaalne e mao-söögitoru tagasivooluhaigus	870	2,01212E+11	M	1957
+3253	E11.9	Insuliinsõltumatu suhkurtõbi tüsistusteta	870	2,01102E+11	M	1957
+3284	R30.0	Kusemishäire	870	2,01412E+13	M	1957
+2423	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	869	2,0121E+11	N	1944
+2498	D23.6	Ülajäseme, k.a õlanaha muud healoomulised kasvajad	865	2,01411E+11	N	1959
+2827	D22.5	Kere melanotsüütneevused	865	2,01206E+13	N	1959
+3161	Z12.3	Eri-sõeluuring rinnanäärmekasvaja avastamiseks	865	2,01303E+13		
+3304	M50.1	Kaela lülivaheketta haigusseisund radikulopaatiaga	865	2,01406E+13	N	1959
+2418	M54.6	Valu lülisamba rinnaosas	864	2,0131E+13	N	1980
+3118	R03.0	Kõrgenenud vererõhunäit hüpertensiooni diagnoosita	861	2,00912E+11	N	1952
+3310	H25.0	Algav seniilkatarakt	861	2,01107E+13	N	1952
+3389	C90.0	Hulgimüeloom	861	2,01202E+11	N	1952
+2620	Z96.1	Silmasisese e intraokulaarse läätse olemasolu	859	2,01305E+11	N	1931
+3249	I11.0	Morbus hypertensivus cardialis cum insufficientia cordis (congestiva)	859	2,01408E+11	N	1931
+2463	G43.0	Aurata migreen [tavaline migreen]	851	2,01209E+13	N	1951
+2483	M17.1	Muud esmased gonartroosid	851	2,01012E+13	N	1951
+2566	m17.1	Muud esmased gonartroosid	851	2,01302E+11	N	1951
+2766	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	851	2,01211E+13	N	1951
+2936	M17.1	Muud esmased gonartroosid	851	2,01306E+13	N	1951
+3021	J20	Äge bronhiit	851	2,01207E+13	N	1951
+3251	M81.0	Patoloogilise murruta osteoporoos, menopausijärgne osteoporoos	851	2,01302E+13	N	1951
+3339	M17.1	Muud esmased gonartroosid	851	2,0121E+13	N	1951
+2953	N28.8	Neeru ja kusejuha muud täpsustatud haigusseisundid	850	2,01212E+13	N	1936
+2851	C61	Eesnäärme pahaloomuline kasvaja	848	2,01001E+11	M	1948
+3292	N21.0	Alumiste kuseteede kivi, kusepõiekivi	848	2,01402E+13	M	1948
+2584	H35.3	MAKULA E TÄHNI JA TAGAPOOLUSE DEGENERATSIOON	844	2,01411E+13	M	1960
+2672	M42.1	Täiskasvanute lülisamba osteokondroos	844	2,01411E+13	M	1960
+2749	J34.2	KÕRVALEKALDUNUD NINAVAHESEIN	844	2,01204E+13	M	1960
+3312	H40.1	PRIMAARNE AVATUD- E LAHTISENURGA GLAUKOOM	844	2,01112E+13	M	1960
+2446	Z12.3	Eri-sõeluuring rinnanäärmekasvaja avastamiseks	839	2,01303E+13		
+2450	J38.6	Kōrikitsenemus e -stenoos	839	2,01003E+13	N	1955
+2744	M17.1	Muud esmased gonartroosid	839	2,01107E+13	N	1955
+3178	Z12.1	Eri-sõeluuring soolekasvaja avastamiseks	839	2,01412E+13		
+3302	M23.2	Vana rebendi või vigastuse põhjustatud meniski kahjustus	839	2,01109E+13	N	1955
+2737	C91.1	Krooniline lümfotsüütleukeemia	837	2,01212E+13	N	1939
+3042	C91.1	Krooniline lümfotsüütleukeemia	837	2,01201E+13	N	1939
+2812	E78	Lipoproteiiniainevahetuse häired ja muud lipideemiad	834	2,01111E+11	N	1935
+2873	S72.0	Reieluukaela-murd	834	2,01303E+11	N	1935
+3207	H01.0	Lauservapõletik e blefariit	834	2,01206E+11	N	1935
+2406	Z09.4	Ravijärgne korduv läbivaatus pahaloomulisest kasvajast erineva haigusseisundi puhul, korduv läbivaatus pärast luumurru ravi	830	2,01105E+13	M	1945
+2646	Z03.5	Jälgimine muu kahtlustatud kardiovaskulaarse haiguse suhtes	830	2,01405E+13	M	1945
+2793	N40	Prostatahüperplaasia e eesnäärmesuurenemus	830	2,01007E+11	M	1945
+3052	M54.1	Dorsalgia e seljavalu, radikulopaatia	830	2,01403E+13	M	1945
+2401	Z01.4	Günekoloogiline läbivaatus (üldine; tava-)	829	2,01401E+13	N	1987
+2585	F41.2	Muud ärevushäired, depressiooni sümptomitega segatüüpi ärevushäire	827	2,01312E+11	M	1992
+2685	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	827	2,00703E+11	M	1992
+2935	Z00.1	Lapse tervise tavaläbivaatus	825	2,01001E+11	M	2009
+3221	S70.0	Puusakontusioon [-põrutus]	825	2,01007E+11	M	2009
+3123	H40.1	Primaarne avatud- e lahtisenurga glaukoom	824	2,01105E+13	N	1956
+2702	J18.9	Täpsustamata kopsupõletik	823	2,01006E+13	M	1970
+2443	K85	Äge pankreatiit e kõhunäärmepõletik	817	2,01409E+11	M	1938
+2659	I11	Südamekahjustusega hüpertooniatõbi	817	2,01109E+11	M	1938
+2666	J44.8	Muu täpsustatud krooniline obstruktiivne kopsuhaigus	817	2,01111E+13	M	1938
+2978	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	817	2,01111E+13	M	1938
+3243	I26.9	Kopsuarteri emboolia ägedat kopssüdant mainimata	817	2,01107E+11	M	1938
+3361	J44	Muu krooniline obstruktiivne kopsuhaigus	817	2,01303E+11	M	1938
+2624	Z12.4	Eri-sõeluuring emakakaelakasvaja avastamiseks	813	2,01302E+13		
+2750	N95.1	Menopaus ja naise klimakteerilised seisundid	813	2,01412E+11	N	1965
+2852	N95	Menopausi ja muud perimenopausaalsed haigusseisund	813	20130901	N	1965
+3289	N95	Menopausi ja muud perimenopausaalsed haigusseisund	813	20120521	MN	1965
+3232	J41.0	Lihtne krooniline bronhiit	812	2,01311E+11	M	1989
+2559	H65	Mädata keskkõrvapõletik	809	2,01402E+11	M	2002
+2771	Z02.7	Meditsiinitõendi väljaandmine	809	2,01106E+11	M	2002
+3217	L23.8	Muude toimurite põhjustatud allergiline kontaktdermatiit	809	2,01411E+11	M	2002
+3180	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	807	2,01112E+11	M	1941
+3182	N40	Prostatahüperplaasia e eesnäärmesuurenemus	807	2,01403E+13	M	1941
+2724	K44.9	Vahelihasesong ilma sulguse vōi gangreenita	798	2,01306E+13	N	1955
+2755	M42.1	Täiskasvanute lülisamba osteokondroos	798	2,01312E+11	N	1955
+2785	E04.2	Mittetoksiline hulgisõlmeline struuma	798	2,01109E+11	N	1955
+2815	E04.2	Mittetoksiline hulgisõlmeline struuma	798	2,01204E+11	N	1955
+3060	H01.9	Täpsutamata laupõletik	798	2,01407E+11	N	1955
+3126	M42.1	Täiskasvanute lülisamba osteokondroos	798	2,0111E+11	N	1955
+3282	J01.0	Äge ülalõuaurkepõletik e maksillaarsinu[s]iit e ha	798	20130724	N	1955
+3369	D12.5	Sigmakäärsoole healoomuline kasvaja	798	2,01404E+11	N	1955
+3391	H35.0	Taustretinopaatia ja võrkkestaveresoonte muutused	798	2,01111E+11	N	1955
+2550	L23.3	Nahale toimivate ravimite põhjustatud allergiline kontaktdermatiit	795	2,01208E+11	M	1956
+2823	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	795	2,01106E+11	M	1956
+3255	J31.2	Krooniline neelupõletik	795	2,01102E+11	M	1956
+3350	M17.0	Gonarthrosis primaria bilateralis	794	2,01411E+11	N	1939
+2681	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuud	787	2,01401E+13	M	1943
+2846	I48	Kodade virvendus ja laperdus	787	2,01403E+11	M	1943
+2854	I48	Kodade virvendus ja laperdus	787	2,01405E+11	M	1943
+2886	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	787	2,01107E+11	M	1943
+2900	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuud	787	2,01405E+13	M	1943
+3116	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	787	2,01305E+11	M	1943
+3233	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	787	2,01109E+11	M	1943
+2622	M17.1	Muud esmased gonartroosid	785	2,01206E+13	M	1940
+2648	N40	Prostatahüperplaasia e eesnäärmesuurenemus	785	2,01205E+13	M	1940
+3043	M16.0	Esmane kahepoolne koksartroos	784	2,01106E+13	M	1944
+2656	D43.0	Peaaju ja kesknärvisüsteemi ebaselge või teadmata loomusega kasvaja, telgiüline e supratentoriaalne suuraju	783	2,01003E+11	M	1952
+2880	R04.0	Ninaverejooks e epistaks _Epistaxis_	780	20131130	N	1992
+3273	R04.0	Ninaverejooks e epistaks _Epistaxis_	780	20140602	N	1992
+3298	Z01.4	Kaebusteta ja eelneva diagnoosita isiku günekoloogiline läbivaatus (üldine; tava-)	780	2,0141E+13	N	1992
+2734	E11.5	INSULIINSÕLTUMATU SUHKURTÕBI PERIFEERSETE VERERINGETÜSISTUSTEGA	776	2,01008E+13	N	1945
+3171	E11.5	INSULIINSÕLTUMATU SUHKURTÕBI PERIFEERSETE VERERINGETÜSISTUSTEGA	776	2,01106E+13	N	1945
+3240	F32.2	RASKE DEPRESSIOON PSYHHOOTILISTE SYMPTOMITETA	776	2,01411E+13	N	1945
+3344	L01.1	Muude nahahaiguste e dermatooside impetiginiseerumine	776	2,01009E+13	N	1945
+2810	K42.9	Nabasong ilma sulguse vōi gangreenita	771	2,0141E+11	N	1987
+2849	Z12.4	Eri-sõeluuring emakakaelakasvaja avastamiseks	771	2,01412E+13		
+3063	B37.3	Häbeme- ja tupekandidiaas (N77.1*)	771	2,0121E+11	N	1987
+3091	E66.0	Liigsete kalorite pōhjustatud rasvumus	771	2,01204E+11	N	1987
+3166	O08.1	Abordi-, emakavälise rasedus- ja heidikraseduse järgne hilin	771	2,01307E+11	N	1987
+2647	K76.0	Mkta rasvastunud maks	766	2,01302E+11	N	1943
+2820	M75.0	Õla liiteline liigesekihnupõletik e adhesiivne kapsuliit	766	2,01411E+11	N	1943
+3058	M17.1	Gonartroos e põlveliigese artroos, muud esmased gonartroosid	766	2,01007E+11	N	1943
+3119	M20.1	Väljapöörd-suurvarvas (omandatud)	766	2,0131E+11	N	1943
+3328	B35.3	Jalgade nahaseenhaigustus e tiinea	766	2,01205E+11	N	1943
+3192	Z12.4	Eri-sõeluuring emakakaelakasvaja avastamiseks	765	2,01401E+13		
+3008	K02.1	DENTIINISÖÖBIJA	762	2,01406E+13	N	1954
+3322	Z01.4	Günekoloogiline läbivaatus (üldine; tava-)	762	2,01402E+13	N	1954
+3366	Z12.3	Eri-sõeluuring rinnanäärmekasvaja avastamiseks	762	2,01303E+13		
+3150	Z96.1	Silmasisese e intraokulaarse läätse olemasolu	760	2,01302E+13	N	1938
+3371	H81.1	Healoomu[li]ne paroksüsmaalne peapööritus e vertiigo	760	2,01304E+11	N	1938
+2439	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	754	2,01407E+11	N	1965
+2502	B35.3	Tinea pedis	754	2,01202E+13	N	1965
+2662	Z24.1	Immuniseerimise vajadus lülijalgselevitatava viirusentsefaliidi vastu	754	2,01105E+13	N	1965
+2729	Z01.4	Günekoloogiline läbivaatus (üldine; tava-)	754	2,01307E+13	N	1965
+2842	Z24.1	Immuniseerimise vajadus lülijalgselevitatava viirusentsefaliidi vastu	754	2,01205E+13	N	1965
+2985	B35.3	Jalgade nahaseenhaigustus e tiinea	754	2,01202E+11	N	1965
+2721	S62.60	Randme- ja käepiirkonna luumurd, muu sõrmemurd, kinnine	752	2,01408E+13	M	1990
+3055	N50.9	Meessuguelundite täpsustamata haigusseisund	752	2,0121E+13	M	1990
+2946	Z13.5	Eri-sõeluuring silma või kõrva haigusseisundite suhtes	750	2,01008E+13	M	2010
+3191	Z00.1	Lapse tervise tavaläbivaatus	750	2,01007E+13	M	2010
+2433	H90.3	Kahepoolne neurosensoorne kuulmisnõrkus	743	2,01306E+11	N	1936
+2470	Z08.7	Korduv läbivaatus pärast pahaloomulise kasvaja kombineeritud	743	2,01108E+13	N	1936
+2745	K80.1	Sapikivi muu koletsüstiidiga	743	2,01406E+11	N	1936
+2927	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	743	2,01108E+11	N	1936
+3111	L57.0	Kiirguskeratoos e -sarvestu(mu)s	743	2,0131E+13	N	1936
+3149	H40.0	Glaukoomikahtlus	743	2,01404E+11	N	1936
+3355	R04.0	Ninaverejooks e epistaks {Epistaxis}	743	2,01308E+11	N	1936
+2643	Z76.0	Korduva ordinatsiooni väljaandmine	742	20140831	N	1933
+2712	M16.0	Koksartroos e puusaliigese artroos, esmane kahepoolne koksartroos	740	2,01308E+13	N	1946
+3383	T75.2	Vibratsiooni toime	740	2,01202E+13	N	1946
+2460	Z03.8	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine, jälgimine muude kahtlustatud haiguste ja seisundite suhtes	730	2,01207E+13	N	1977
+2545	R06.5	Suuhingamine	730	2,01305E+11	N	1977
+2588	J20	Äge bronhiit	730	2,01411E+11	N	1977
+2680	N97.9	Täpsustamata naiseviljatus	730	2,01111E+13	N	1977
+2704	H92.0	Otalgia e kõrvavalu ja kõrvaefusioon e –voolus, kõrvavalu e otalgia	730	2,01303E+13	N	1977
+2735	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	730	2,0131E+11	N	1977
+2788	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	730	2,01205E+11	N	1977
+2826	N97.4	Mehega seonduv naiseviljatus	730	2,01109E+13	N	1977
+3257	N97.4	Mehega seonduv naiseviljatus	730	2,01203E+13	N	1977
+3357	M21.6	Muud omandatud kanna ja jala moonutised	730	2,01208E+13	N	1977
+2514	B34.9	Täpsustamata viirusnakkus	727	2,01207E+13	N	2010
+2579	J35.0	Krooniline mandlipõletik e tonsilliit	727	2,01412E+13	N	2010
+3088	J20.9	Täpsustamata äge bronhiit	727	20141021	N	2010
+2589	T81.4	Mujal klassifitseerimata menetluste tüsistused, mujal klassifitseerimata menetlusjärgne nakkus	725	2,01301E+11	N	1990
+3073	O47.0	Ebatuhud enne raseduse 37 täisnädala lõppu	725	2,01212E+11	N	1990
+2473	C20	Pärasoole PK	716	2,01404E+13	N	1929
+2677	C20	Pärasoole PK	716	2,01306E+13	N	1929
+2769	C20	Pärasoole pk	716	2,01411E+11	N	1929
+2783	T88.8	Mujal klassifitseerimata kirurgilise ja muu meditsiiniabi teised tüsistused, kirurgilise ja muu meditsiiniabi mujal klassifitse	716	2,01007E+11	N	1929
+2955	C20	Pärasoole pk	716	2,01007E+13	N	1929
+3005	C20	Pärasoole PK	716	2,01204E+13	N	1929
+3148	Z85.0	Seedeelundite pahaloomuline kasvaja anamneesis	716	2,00905E+11	N	1929
+3176	C20	Pärasoole PK	716	2,01305E+13	N	1929
+3348	N95.0	Menopausijärgne verejooks	716	2,01106E+13	N	1929
+2535	D22.5	Kere melanotsüütneevused	712	2,01102E+13	M	1979
+3004	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	712	2,01407E+11	M	1979
+3101	J33.0	Ninaõõne polüüp	712	2,01406E+11	M	1979
+3330	I10	Hüpertooniatõbi e essentsiaalne e primaarne arteriaalne hüpertensioon e kõrgvererõhktõbi; Hypertensio essentialis I; Riskiaste 1	712	2,01104E+13	M	1979
+2425	G47.0	Uinumise ja une säilitamise häired [insomniad]	710	2,01309E+11	M	1934
+2746	K25.3	Maohaavand, äge ilma hemorraagia või perforatsioonita	710	2,01304E+11	M	1934
+2429	H00.1	Kalaasion e rahetera; palp.sup.os.	701	2,01005E+13	N	1993
+2586	O99.6	Rasedust, sünnit ja sünnit.järg per tüsistavad seedimiselundite haigused	701	2,01403E+11	N	1993
+2802	O99.7	Rasedust, sünnitust ja sünnitusjärgset perioodi tüsistavad naha ja nahaaluskoe haigused	701	2,01407E+13	N	1993
+2954	J32.4	Teisiti täpsustamata krooniline pansinusiit; PARANENUD	701	2,01003E+13	N	1993
+2990	Z70.8	Muu seksuaalnõustamine	701	2,01402E+11	N	1993
+3041	L10.9	Täpsustamata villtõbi	701	2,01407E+13	N	1993
+3113	M93.8	Muud täpsustatud osteokondropaatiad	701	2,01301E+13	N	1993
+3230	M23.9	Põlveliigese täpsustamata sisemine kahjustus	701	2,01204E+11	N	1993
+3380	Z11.3	Eri-sõeluuring peamiselt suguliselt levivate nakkushaiguste avastamiseks	701	2,01311E+11	N	1993
+2452	Z01.3	Vererõhu mõõtmine	694	2,01102E+13	M	1993
+2556	Z01.3	Vererõhu mõõtmine	694	2,01103E+13	M	1993
+3114	J00	Äge nasofarüngiit e nina-neelupõletik [tavaline           nohu]	694	2,01005E+13	M	1993
+3151	Z01.3	Vererõhu mõõtmine	694	2,01102E+13	M	1993
+3295	R10.4	Muu ja täpsustamata kõhuvalu	694	2,01009E+13	M	1993
+3335	G40.3	Generaliseerunud idiopaatiline epilepsia ja epileptilised sündroomid	694	2,01409E+11	M	1993
+3354	Z01.3	Vererõhu mõõtmine	694	2,01102E+13	M	1993
+2637	H52.2	Astigmatism	692	2,01011E+13	M	2007
+3106	K30	Düspepsia e seedehäire (seedimatus)	692	2,01307E+11	M	2007
+2970	C61	Eesnäärme pk	690	2,0131E+13	M	1952
+3216			690	2,0131E+11	M	1952
+3209	Z10.0	Töötervishoiualane läbivaatus	689	2,01405E+13	N	1971
+2454	Z12.1	Eri-sõeluuring soolekasvaja avastamiseks	688	2,01406E+13		
+2713	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	684	2,01109E+13	N	1980
+2804	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	684	2,01107E+13	N	1980
+2908	Z71.1	Isik kardetud kaebusega, kellel diagnoosi ei pandud	684	2,01304E+13	N	1980
+3115	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	684	2,01107E+13	N	1980
+2468	N11.1	Krooniline obstruktiivne püelonefriit	682	2,01107E+11	M	1929
+3213	G20	Parkinsoni tõbi	682	2,01002E+13	M	1929
+2694	H51.9	Binokulaarliigutuste täpsustamata haigusseisundid	680	2,01103E+11	N	1941
+3363	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	680	2,01311E+11	N	1941
+2419	K51.3	Haavandiline krooniline rektosigmoidiit e pärasoole-sigmakäärsoole põletik	675	2,01106E+13	N	1942
+2542	H52.0	Hüpermetroopia e kaugelenägevus	675	20141102	N	1942
+2699	K51.8	Muud haavandilised koliidid e kÄÄrsoolep_letikud	675	20110326	N	1942
+3244	K51.3	Haavandiline (krooniline) rektosigmoidiit e päraso	675	20140718	f	1942
+3356	K51.1	Haavandiline krooniline ileokoliit e niudesoole-käärsoole põletik	675	2,01107E+13	N	1942
+2400	M19.8	Muud tapsustatud artroosid	672	2,0131E+11	M	1940
+2614	M21.4	Muud jäsemete omandatud deformsused, lampjalg (omandatud)pes planus (acquisitus)	672	2,01307E+13	M	1940
+2801	K25.5	Maohaavand, maohaavand, krooniline või täpsustamata perforatsiooniga	672	2,01102E+13	M	1940
+2716	H52.2	Astigmatism	669	2,0141E+11	N	2011
+2991	K42.9	Nabasong ilma sulguse või gangreenita	669	2,01401E+13	N	2011
+3393	H52.0	HÜPERMETROOPIA E KAUGELENÄGEVUS	669	2,0141E+13	N	2011
+2742	J01	Äge sinu[s]iit e ninakõrvalurkepõletik	667	2,01204E+11	N	1974
+3193	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	667	2,01307E+13	N	1974
+2626	J35.2	Neelumandli hüpertroofia	665	2,01305E+13	N	2007
+3090	Z01.2	Kaebusteta ja eelneva diagnoosita isiku hammaste läbivaatus	665	2,01306E+13	N	2007
+2887	D37.4	Suuõõne ja seedeelundite ebaselge või teadmata loomusega kasvaja, käärsool	662	2,01206E+13	M	1948
+3154	S62.61	Randme- ja käepiirkonna luumurd, muu sõrmemurd, lahtine	662	2,01312E+13	M	1948
+3212	T15.0	Võõrkeha silmas, võõrkeha korneas e silma sarvkestas	662	2,01209E+13	M	1948
+2415	L60.3	Küünte haigusseisundid, küünedüstroofia	657	2,01105E+13	N	1944
+2534	C56	Munasarja pahaloomuline kasvaja; Carcinoma ovariorum recidiva IVst; IVst	657	2,01207E+13	N	1944
+2857	C56	Munasarja pahaloomuline kasvaja	657	2,01211E+13	N	1944
+2956	L60.3	Küünte haigusseisundid, küünedüstroofia	657	2,01111E+13	N	1944
+3065	C56	Munasarja pahaloomuline kasvaja	657	2,01203E+13	N	1944
+3388	J20	Bronchitis acuta	656	2,01408E+11	N	2008
+2518	F95.0	LYHIAJALISED TIKID	653	2,0101E+13	M	2003
+2698	L20.8	Muu atoopiline dermatiit	653	2,01311E+13	M	2003
+2969	J45.0	Valdavalt allergiline astma	653	2,01409E+13	M	2003
+2943	R55	Sünkoop e süvaminestus ja kollaps e raugus	652	2,01107E+11	N	2007
+2539	J00	Äge nasofarüngiit e nina-neelupõletik [tavaline no	651	2,01001E+11	M	2007
+2611	B67.8	Maksa täpsustamata ehhinokokoos	646	2,0131E+11	N	1953
+2701	Z100	Töötervishoiualane läbivaatus	646	2,01209E+13	N	1953
+3054	K21.0	Ösofagiit gastro-ösofageaalse tagasivooluhaigusega	646	2,0131E+11	N	1953
+3082	B67.8	Maksa täpsustamata ehhinokokoos	646	2,01405E+11	N	1953
+3329	B67.8	Maksa täpsustamata ehhinokokoos	646	2,01403E+11	N	1953
+2869	Z71.1	Isik kardetud kaebusega, kellel diagnoosi ei pandud	643	2,01304E+11	N	1996
+3000	H52.1	Müoopia e lühinägevus	643	2,01112E+13	N	1996
+3098	H52.1	Müoopia e lühinägevus	643	2,01306E+11	N	1996
+2641	L20.8	Muu atoopiline dermatiit	640	2,01104E+11	N	2008
+3076	H65.4	Alia otitis media chronica non suppurativa	640	2,01212E+13	N	2008
+3121	J35.1	Suulaemandlite hüpertroofia	640	2,01205E+11	N	2008
+2604	I48	Kodade virvendus ja laperdus	638	2,01301E+11	N	1927
+3248	I48	Kodade virvendus ja laperdus	638	2,01303E+11	N	1927
+2609	I11.9	SÜDAMEKAHJUSTUSEGA HÜPERTOONIATÕBI ILMA (KONGESTIIVSE) SÜDAMEPUUDULIKKUSETA	634	2,01211E+13	M	1957
+2903	E78.2	Segahüperlipideemia	634	2,01208E+13	M	1957
+3007	M75.0	ÕLA LIITELINE LIIGESEKIHNUPÕLETIK E ADHESIIVNE KAPSULIIT	634	2,01311E+13	M	1957
+3306	B35.1	Küünte nahaseenhaigustus e küünetiinea	634	2,01304E+13	m	1957
+2841	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuud	631	2,01008E+13	N	1935
+3064	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuud	631	2,01105E+13	N	1935
+3258	I11.0	S�damekahjustusega h�pertooniat�bi (kongestiivse) s�damepuudulikkusega	631	2,01111E+11	N	1935
+2511	R51	Peavalu	629	2,0121E+11	N	1964
+3013	N92.1	Ebaregulaarne menstruatsioonide vaheaegadel esinev verejooks; Tsüklivälised veritsused.	629	2,01105E+13	N	1964
+2558	J01.0	Äge ülalõuaurkepõletik e maksillaarsinu[s]iit e haimoriit	627	2,01304E+11	N	1986
+2565	J01.0	Äge ülalõuaurkepõletik e maksillaarsinu[s]iit e haimoriit	627	2,01303E+11	N	1986
+2546	J45.8	Segatüüpi astma	620	2,0101E+13	N	1939
+2664	S72.00	Reieluumurd, reieluukaela-murd, kinnine	620	2,01301E+13	N	1939
+2952	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	620	2,01307E+13	N	1939
+2971	Z96.6	Muude funktsionaalsete implantaatide olemasolu, ortopeediliste liigeseimplantaatide olemasolu	620	2,01312E+13	N	1939
+3228	M48.0	Lülisambakanali kitsenemine e spinaalstenoos	620	2,01009E+13	N	1939
+3237	S72.00	Reieluumurd, reieluukaela-murd, kinnine	620	2,01301E+13	N	1939
+3311	H52.4	Presbüoopia e vanaeanägevus	620	2,01411E+11	N	1939
+3141	I25.2	Varasem müokardiinfarkt; 2012	619	2,01105E+13	F99	1947
+2537	N39	Kuseelundite muud haigusseisundid	609	2,01304E+11	N	1953
+2571	M35.9	Sidekoe täpsustamata süsteemne haaratus	609	2,01206E+11	N	1953
+2792	M15.0	Polüartroos, esmane generaliseerunud (osteo)artroos	609	2,01309E+13	N	1953
+2824	R07.2	Rinnakutagune valu	609	2,01311E+11	N	1953
+2912	Z12.3	Eri-sõeluuring rinnanäärmekasvaja avastamiseks	609	2,01303E+13		
+2914	J41.8	Krooniline bronhiit, lihtne ja limasmädane segavorm	609	2,01405E+13	N	1953
+2965	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	609	2,01312E+11	N	1953
+2992	K21	Gastro-ösofageaalne e mao-söögitoru tagasivooluhaigus	609	2,01208E+11	N	1953
+3206	J20	Äge bronhiit	609	2,01311E+11	N	1953
+3374	M79.6	Jäsemevalu	609	2,01304E+11	N	1953
+2645	B34.9	TÄPSUSTAMATA VIIRUSNAKKUS	606	2,01401E+13	M	1986
+2878	S83.2	Värske meniski- [vōruketta]rebend	606	2,01406E+13	M	1986
+3027	M23.2	Vana rebendi vōi vigastuse pōhjustatud meniski kahjustus	606	2,01408E+13	M	1986
+2435	Z10.0	Töötervishoiualane läbivaatus	605	2,01402E+11	N	1970
+2413	XXX	K???	603	2,01108E+13	N	1984
+2686	L28.0	Krooniline lihtlihhen ja pruriigo e sügatõbi, krooniline lihtlihhen	603	2,01301E+13	N	1984
+2412	I41.8	Müokardiit MK muude haiguste korral	598	20140527	N	1972
+2736	E26.0	Primaarne hüperaldosteronism	598	2,01104E+13	N	1972
+2795	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestii	598	20120509	N	1972
+3044	J35.0	Krooniline mandlipõletik e tonsilliit	598	2,01406E+13	N	1972
+3062	I10	Hüpertooniatõbi e essentsiaalne e primaarne arteriaalne hüpertensioon e kõrgvererõhktõbi; Riskiaste 1	598	2,01106E+13	N	1972
+2421	E10.9	INSULIINSÕLTUV SUHKURTÕBI TÜSISTUSTETA	583	2,0131E+13	N	1997
+2509	E10	Insuliinisõltuv suhkurtõbi	583	2,01212E+13	N	1997
+2813	R07.0	Kurguvalu	583	2,01301E+13	N	1997
+2984	R07.0	Kurguvalu	583	2,00909E+13	N	1997
+3037	R07.0	Kurguvalu	583	2,01112E+13	N	1997
+3039	R07.0	Kurguvalu	583	2,01109E+13	N	1997
+3061	E10.9	INSULIINSÕLTUV SUHKURTÕBI TÜSISTUSTETA	583	2,01302E+13	N	1997
+3078	H52.1	Müoopia e lühinägevus	583	2,0101E+13	N	1997
+3083	R51	Peavalu	583	2,01111E+13	N	1997
+3129	B34.9	Täpsustamata viirusnakkus	583	2,01403E+11	teadmata	1997
+3143	S93.4	Kannadistorsioon ja -distensioon	583	2,01309E+13	N	1997
+3205	E10.9	INSULIINSÕLTUV SUHKURTÕBI TÜSISTUSTETA	583	2,01405E+13	N	1997
+3222	R11	Iiveldus ja oksendamine	583	2,01312E+13	N	1997
+3276	R51	Peavalu	583	2,01201E+13	N	1997
+3308	L70.8	Muud vinnid	583	2,0131E+11	N	1997
+2467	H61.2	Väliskõrva muud haigusseisundid, vaigukork e vaikummistus	578	2,01012E+11	M	1941
+2487	N40	Prostatahüperplaasia e eesnäärmesuurenemus	578	2,0121E+11	M	1941
+2860	M54.1	Dorsalgia e seljavalu, radikulopaatia	578	2,01005E+11	M	1941
+3368	M51.1	Nimme ja muude lülivaheketaste haigussesundid radikulopaatiaga	578	2,01211E+11	M	1941
+3386	M54.1	Radikulopaatia	578	2,01403E+11	M	1941
+2981	H65.0	Äge seroosne keskkõrvapõletik	576	2,01211E+13	N	2002
+3025	R01.0	Healoomulised ja kahjutud südamekahinad	576	2,01212E+13	N	2002
+2616	Z02.3	Läbivaatus vastuvõtuks sõjaväkke	571	2,01111E+11	M	1993
+3074	M24.2	Sidemete e ligamentide haigusseisundid	571	2,01205E+13	M	1993
+3142	M75.9	Täpsustamata õlakahjustused	571	2,01106E+11	M	1993
+3215	J01.0	Äge ülalõuaurkepõletik e maksillaarsinu[s]iit e haimoriit	571	2,01411E+11	M45	1993
+3321	Z02.3	Läbivaatus vastuvõtuks sõjaväkke	571	2,01301E+11	M	1993
+2512	H52.1	Müoopia e lühinägevus	569	2,01309E+11	N	1994
+2536	D22.5	Kere melanotsüütneevused	569	2,01201E+13	N	1994
+2902	C54.1	Emakalimaskest (endomeetrium)	567	20130211	N	1961
+2986	T92.5	Ülajäseme lihase ja kõõluse vigastuse jääknähud	567	2,01411E+13	N	1961
+2619	E61.1	Rauavaegus	561	2,01206E+11	N	1988
+2632	Z100	Töötervishoiualane läbivaatus	561	2,01311E+13	N	1988
+2947	J45.9	Astma, täpsustamata astma	561	2,01007E+11	N	1988
+2960	B37.3	HÄBEME- JA TUPEKANDIDIAAS	561	2,01409E+13	N	1988
+2993	J45.9	Astma, täpsustamata astma	561	2,01008E+11	N	1988
+3036	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	561	2,01402E+11	N	1988
+2657	L20.8	Muu atoopiline dermatiit	558	2,01107E+11	M	2004
+2751	J30.2	Muu sesoonne allergiline riniit	558	2,01405E+11	M	2004
+2811	R10.4	Muu ja täpsustamata kõhuvalu	558	2,01403E+13	M	2004
+2703	Z02.1	Töölevõtu eelne läbivaatus	551	2,01311E+11	N	1967
+2781	K85	Äge pankreatiit e kõhunäärmepõletik	551	2,0141E+13	N	1967
+3183	S52.50	Küünarvarremurd, kodarluu ala- [distaalse] otsa murd, kinnine	551	2,01412E+13	N	1967
+3203	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	551	2,01408E+11	N	1967
+3247	K86.0	Muud kõhunäärmehaigused, alkoholi põhjustatud krooniline pankreatiit	551	2,01312E+13	N	1967
+3314	K86	MUUD KÕHUNÄÄRMEHAIGUSED	551	2,01406E+13	N	1967
+3347	K85	Äge pankreatiit e kõhunäärmepõletik	551	2,01301E+13	N	1967
+3086	B35.1	Küünte nahaseenhaigustus e küünetiinea	550	2,01308E+11	M	1968
+2424	R05	Köha	549	2,01212E+11	M	1969
+2884	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	542	2,01305E+11	N	1953
+2906	G43	Migreen	542	2,01211E+11	N	1953
+2974	H33.2	Seroosne võrkkestairre	542	2,01209E+11	N	1953
+3197	K04.0	Pulpiit e säsipõletik	542	2,01004E+13	N	1953
+3231	K08.3	Säilinud hambajuur	542	2,01104E+13	N	1953
+3259	E06.3	Autoimmuunne tür[e]oidiit	542	2,01304E+13	N	1953
+3281	Z10.0	TÖÖTERVISHOIUALANE LÄBIVAATUS	542	2,01401E+13	f	1953
+2476	G44.3	Krooniline traumajärgne peavalu	530	2,01004E+13	M	1953
+2505	G44.3	Krooniline traumajärgne peavalu	530	2,01306E+11	M	1953
+2530	M54.0	Kaela ja selja piirkondi haarav rasvpadjandipõletik e pannikuliit	530	2,01102E+11	M	1953
+2618	R52.2	Muu krooniline valu	530	2,01203E+11	M	1953
+2865	F45.0	Somatisatisoonihäire	530	2,01002E+11	M	1953
+2932	E04.1	Muu mittetoksiline struuma e hõõtsik, mittetoksiline üksik kilpnäärmesõlm	530	2,01212E+11	M	1953
+2963	J20	Äge bronhiit	530	2,01309E+11	M	1953
+3097	K59.0	Kõhukinnisus e konstipatsioon	530	2,01201E+11	M	1953
+3160	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	530	2,01105E+11	mees	1953
+3187	Z76.0	Korduva ordinatsiooni väljaandmine	530	2,01111E+11	M	1953
+3349	M42.9	Täpsustamata lülisamba osteokondroos	530	2,01107E+11	M	1953
+3364	R52.2	Muu krooniline valu	530	2,01108E+11	M	1953
+2513	M30.1	Polüarteriit kopsu haaratusega [Churg-Strauss]	528	2,01302E+13	M	1951
+2615	S92.3	Metatarsaalluu- [pöialuu]murd	528	20110830	M	1951
+2707	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	525	2,01305E+11	M	1941
+3100	R53	Haiglus ja roidumus	525	2,01203E+13	M	1941
+3224	J30	Vasomotoorne ja allergiline riniit	525	2,01307E+11	M	1941
+2726	D17.1	KERENAHA JA NAHAALUSKOE LIPOMATOOSNE HK	522	2,01302E+13	M	1979
+3069	Z02.4	Läbivaatus juhiloa saamiseks	522	2,01212E+11	M	1979
+3317	D23.6	Ülajäseme, k.a õlanaha muud healoomulised kasvajad	522	2,01401E+11	M	1979
+3087	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	521	2,01312E+11	M	2007
+2592	M05.8	Muud seropositiivsed reumatoidartriidid	514	2,01401E+13	N	1941
+2691	Z76.0	Korduva ordinatsiooni väljaandmine	514	20140628	N	1941
+2874	J45.9	Teisiti täpsustamata astmaatiline bronhiit	514	2,01209E+13	N	1941
+2950	N95.2	POSTMENOPAUSAALNE ATROOFILINE VAGINIIT	514	20120228	N	1941
+3012	M05.8	Muud seropositiivsed reumatoidartriidid	514	2,01107E+13	N	1941
+3040	M05.8	Muud seropositiivsed reumatoidartriidid	514	20130126	N	1941
+3189	M05.8	Muud seropositiivsed reumatoidartriidid	514	20130724	N	1941
+2591	J04.2	ÄGE KÕRI-HINGETORUPÕLETIK E LARÜNGOTRAHHEIIT	513	2,01106E+13	N	1980
+2937	F01.34	Segatüüpi vaskulaarne dementsus muud ja segatüüpi kaasuvad sümptomid	512	2,01303E+11	N	1932
+3127	E03.8	Muu täpsustatud hüpotür[e]oidism	509	2,01309E+13	N	1987
+3162	Z10.0	Töötervishoiualane läbivaatus	509	2,01406E+13	N	1987
+3353	N86	Emakakaela erosioon e limaskestamarrastus ja ektroopion e vä	509	2,01309E+13	N	1987
+2532	B07	Viirustüükad [soolatüükad] e harilikud tüükad	505	2,01107E+13	N	1936
+2931	I84.8	Täpsustamata hemorroidid muude tüsistustega	505	2,0111E+13	N	1936
+3159	B35.3	Jalgade nahaseenhaigustus e tiinea	505	2,01201E+13	N	1936
+3392	M25.5	Liigesevalu	505	2,0131E+13	N	1936
+2549	J02.9	Täpsustamata äge neelupõletik	504	2,0141E+11	N	1975
+2410	E55.9	D-vitamiinivaegus, täpsustamata d-vitamiinivaegus	492	2,01309E+13	N	1942
+2526	N20	Neeru- ja ureeteri- e kusejuha kivi	492	2,01212E+11	N	1942
+2554	e03	Muu hüpotüreoos	492	2,01206E+11	N	1942
+2636	M42.1	TÄISKASVANUTE LÜLISAMBA OSTEOKONDROOS	492	2,01402E+13	N	1942
+2706	Z01.2	HAMMASTE LÄBIVAATUS	492	2,01406E+13	N	1942
+2818	H62	Väliskõrva haigusseisundid mk haiguste korral	492	2,01208E+11	N	1942
+2940	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	492	2,01404E+11	N	1942
+3024	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	492	2,0121E+11	N	1942
+3067	D64	MUUD ANEEMIAD	492	2,01402E+13	N	1942
+3208	M54.1	Radikulopaatia	492	2,01402E+11	N	1942
+3319	I35.0	Aordiklapi mittereumaatilised haigusseisundid, aordi(klapi)stenoos	492	2,01001E+11	N	1942
+3343	Z04.8	Läbivaatus ja jälgimine teistel täpsustatud pōhjustel	492	2,01309E+13	N	1942
+2464	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	484	2,01309E+11	M	1952
+2484	Z02.4	Läbivaatus juhiloa saamiseks	484	2,01304E+11	M	1952
+2541	Z43.8	Muude tehisavade hooldus	484	2,01112E+13	M	1952
+2649	S43.4	Õlaliigese distorsioon ja distensioon	484	2,01401E+13	M	1952
+2853	N03.1	Krooniline nefriidisündroom koldeliste ja segmentaalsete glomeerulite kahjustusega	484	2,01011E+13	M	1952
+2872	N18.0	Neeruhaiguse lõppjärk	484	2,01008E+13	M	1952
+3227	R42	Tasakaaluhäire; vitamiin B12 defitsiidist tingitud, võimalik	484	2,01011E+13	M	1952
+3375	Z43.8	Muude tehisavade hooldus	484	2,0111E+13	M	1952
+2638	M54.5	Dorsalgia e seljavalu, nimmevalu	481	2,01306E+13	N	1951
+2819	E07.9	Kilpnäärme täpsustamata haigusseisund	481	2,01409E+11	N	1951
+2941	S92.40	Kanna- ja jalamurd, suurvarbamurd, kinnine	481	2,01405E+13	N	1951
+2447	M54.8	Muu seljavalu e dorsalgia	475	2,01105E+11	N	1957
+2577	I83.9	Alajäsemete vaariksid haavandi või põletikuta	475	2,01304E+11	N	1957
+2709	Z12.1	Eri-sõeluuring soolekasvaja avastamiseks	475	2,01412E+13		
+2743	M51.1	Nimme ja muude lülivaheketaste haigussesundid radikulopaatiaga	475	2,0121E+11	N	1957
+3219	S93.4	Kannadistorsioon ja -distensioon	475	2,01412E+11	N	1957
+3293	M54.5	Nimmevalu	475	2,01104E+11	N	1957
+2481	H25.1	Seniilne nukleaarkatarakt e tuumakae; oc. utr.	470	2,01005E+13	M	1938
+2909	I26.9	Kopsuarteri emboolia ägedat kopssüdant mainimata; 2009, marevaanravil	470	2,01104E+13	M	1938
+2929	I26.9	Kopsuarteri emboolia ägedat kopssüdant mainimata	470	2,01305E+13	M	1938
+3099	I26.9	Kopsuarteri emboolia ägedat kopssüdant mainimata; 2009, marevaanravil	470	2,01003E+13	M	1938
+3147	J18.8	Muu kopsupõletik, tekitaja tuvastamata	470	2,01401E+13	M	1938
+3342	G44.8	Muud täpsustatud peavalusündroomid	469	2,01102E+13	M	1956
+2918	Z10.0	Töötervishoiualane läbivaatus	467	2,01409E+13	M	1987
+2919	F70.1	Kerge vaimne alaareng kh-ga	467	20141216	M	1987
+2639	I42.0	Dilateeruv kardio(müo)paatia	465	2,01406E+11	M	1968
+3018	I34.1	Mitraalklapi mittereumaatilised haigusseisundid, mitraal(klapi) prolaps	465	2,01408E+13	M	1968
+3210	M17	Gonartroos e põlveliigese artroos	463	2,01208E+11	N	1942
+3381	I87.2	Veenide muud haigusseisundid, (perifeerne; krooniline) veenipuudulikkus	463	2,01302E+13	N	1942
+2474	R10.1	ÜLAKÕHUVALU	459	2,01308E+13	M	1992
+2660	J06.9	TÄPSUSTAMATA ÄGEDAD ÜLEMISTE HINGAMISTEEDE NAKKUSED	459	2,01203E+13	M	1992
+2787	I83.9	ALAJÄSEMETE VAARIKSID HAAVANDI VÕI PÕLETIKUTA	459	2,01206E+13	M	1992
+2831	I83.9	Alajäsemete vaariksid haavandi või põletikuta	459	2,01205E+11	M	1992
+2885	M25.5	Liigesevalu	458	2,01006E+13	N	1993
+2444	L70.0	Akne e vinnid, harilikud vinnid	456	2,01205E+11	N	1986
+3014	L70.0	Akne e vinnid, harilikud vinnid	456	2,01212E+11	N	1986
+2499	E03.9	Täpsustamata hüpotüreoos	448	2,01403E+11	M	1996
+2504	H10.5	Konjunktiviit e sidekestapõletik, blefarokonjunktiviit	448	2,01411E+13	M	1996
+2564	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	448	2,01205E+11	M	1996
+2739	G45.9	Peaaju transitoorse isheemia atakid ja sellesarnased sündroomid, peaaju täpsustamata mööduv isheemia atakk	448	2,01411E+13	M	1996
+2848	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	448	2,01212E+11	M	1996
+2925	I10	Hüpertooniatōbi e essentsiaalne e primaarne arteriaalne hüpertension	448	2,01211E+13	M	1996
+3030	J02	Äge farüngiit e neelupõletik	448	2,01109E+11	M	1996
+3128	F84.1	Atyypiline autism	448	2,01204E+11	M	1996
+2445	Z10.0	Töötervishoiualane läbivaatus	439	2,01212E+13	N	1985
+2642	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	439	2,01103E+13	N	1985
+2843	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	439	2,01105E+13	N	1985
+2907	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	439	2,01104E+13	N	1985
+2957	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	439	2,01103E+13	N	1985
+3156	K05	Igemepõletik la hambajuureümbrise haigused	439	2,01306E+11	N	1985
+3204	Z03.8	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine, jälgimine muude kahtlustatud haiguste ja seisundite suhtes	439	2,01004E+11	N	1985
+3290	O21.0	Rasedusaegne liigoksendamine, kergekujuline rasedusaegne iiigoksendamine	439	2,01007E+11	N	1985
+3307	Z39.1	Sünnitusjärgne hooldus ja läbivaatus, imetava ema hooldus ja läbivaatus	439	2,01104E+13	N	1985
+2441	G25.9	Täpsustamata ekstrapüramidaal- ja liigutushäire	429	2,01311E+11	N	1936
+2531	C22.7	Maksa ja maksasiseste sapijuhade pahaloomuline kasvaja, maksa muud täpsustatud kartsinoomid	429	2,01403E+13	N	1936
+2538	C22.1	Maksa ja maksasiseste sapijuhade pahaloomuline kasvaja, maksasiseste sapiteede kartsinoom	429	2,01402E+13	N	1936
+2540			429	2,01311E+11	N	1936
+2582	H25.1	Seniilkatarakt e raukuskae, seniilne nukleaarkatarakt e tuumakae	429	2,01308E+13	N	1936
+2861	J20.8	Muude täpsustatud organismide tekkene äge bronhiit	429	2,01304E+11	N	1936
+3105	K58	Soole ärritussündroom e -haigustunnustik	429	2,01103E+11	N	1936
+3139	M16.1	Muud esmased koksartroosid	429	2,01403E+13	N	1936
+3140	Z96.6	Ortopeediliste liigeseimplantaatide olemasolu	429	2,01405E+13	N	1936
+3378	I48	Kodade virvendus ja laperdus	429	2,01407E+13	N	1936
+2595	M19.0	Muude liigeste esmane artroos	426	2,01402E+11	M	1963
+3359	H11.1	Konjunktiivi muud haigusseisundid, konjunktiivi degeneratsioonid ja ladestised	426	2,0141E+13	M	1963
+3399	M19.0	Muude liigeste esmane artroos	426	2,01403E+13	M	1963
+2796	N97.4	Mehega seonduv naiseviljatus	424	2,01109E+13	N	1978
+2828	Z10.0	Töötervishoiualane läbivaatus	424	2,01312E+13	N	1978
+2998	M54.4	Dorsalgia e seljavalu, lumbaago ishiasega	423	2,01011E+11	N	1989
+2552	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	421	2,01002E+11	M	1934
+2780	N43.2	Muu vesisong	421	2,01203E+13	M	1934
+2403	I11.9	Südamekahjustusega hüpertooniatõbi, südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	420	2,01303E+13	N	1956
+2417	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	415	2,01209E+11	N	1950
+2427	I69.1	Intratserebraalse e ajusisese hemorraagia jääknähud	415	2,0131E+13	N	1950
+2496	S52.5	Kodarluu ala- [distaalse] otsa murd	415	2,01007E+13	N	1950
+2684	I61.6	Intratserebraalne hemorraagia e peaajusisene verevalum, mitmekoldeline intratserebraalne hemorraagia; Mitmekoldeline intratserbraalne hemorraagia vasaku hemisfääris, parempoolne  hemiparees, sensoorne afaasia	415	2,01102E+13	N	1950
+3188	I61.6	Mitmekoldeline intratserebraalne hemorraagia	415	2,01107E+13	N	1950
+2772	D50.0	(krooniline) verekaotusjärgne teisene rauavaegusaneemia	411	2,01101E+11	N	1987
+3002	G43.1	Auraga migreen [klassikaline migreen]	411	2,01206E+11	N	1987
+3079	G43	Migreen	411	2,01105E+11	N	1987
+3351	H52.2	Astigmatism	411	2,01211E+11	N	1987
+2516	J00	Äge nasofarüngiit e nina-neelupõletik (tavaline nohu)	410	2,01303E+11	M	2008
+3384	K04.0	Pulpiit e säsipõletik	408	2,01406E+13	N	1960
+3385	E11.8	Insuliinisõltumatu suhkurtõbi, insuliinisõltumatu suhkurtõbi täpsustamata tüsistustega	408	2,01408E+13	N	1959
+2501	M75.8	Muud õlakahjustused	404	2,01407E+11	N	1959
+2705	I10	Hüpertooniatõbi e essentsiaalne e primaarne arteriaalne hüpertensioon e kõrgvererõhktõbi	404	2,01201E+13	N	1959
+2836	E320	Psühhiaater	404	2,01209E+13	N	1959
+2867	R52.2	Muu krooniline valu	404	2,0131E+11	N	1959
+2567	I48	Kodade virvendus ja laperdus	400	2,01409E+11	N	1942
+2765	I48	Kodade virvendus ja laperdus	400	2,01402E+11	N	1942
+2838	K08.2	Hambutu sombusharja atroofia	400	2,01306E+13	N	1942
+3104	C50.8	Rinna osalt kattuvate paikmete pahaloomuline kasvaja	400	2,01409E+13	N	1942
+2718	M23.3	Muud meniski kahjustused	399	2,01411E+11	M	1991
+2453	H40.0	Glaukoomikahtlus	397	2,01203E+11	M	1941
+2938	H40.0	Glaukoomikahtlus	397	2,01311E+11	M	1941
+2506	E06.3	Autoimmuunne tür[e]oidiit	394	2,01112E+11	N	1969
+2650	N76.0	Äge tupepõletik	394	2,01211E+11	N	1969
+2676	Z13.6	Eri-s_eluuring s_dameveresoonkonna haigusseisundit	394	20130127	N	1969
+2840	H52.2	ASTIGMATISM	393	20140503	M	1934
+2982	M54.5	Nimmevalu	392	2,01311E+11	N	1945
+2581	Z00.1	Lapse tervise tavaläbivaatus	386	2,01304E+11	N	2011
+2782	Z20.7	Ühekordne või pikaajaline kontakt pedikuloosi, akariaasi jm infestatsioonidega	386	2,01305E+11	N	2011
+3080	Z00.1	Lapse tervise tavaläbivaatus	386	2,01104E+11	N	2011
+3120	Z01.0	Kaebusteta ja eelneva diagnoosita isiku silmade läbivaatus ja nägemise uurimine	386	2,01412E+13	N	2011
+3214	Z00.1	Lapse tervise tavaläbivaatus	386	2,0111E+11	N	2011
+3318	Z00.1	Lapse tervise tavaläbivaatus	386	2,01111E+11	N	2011
+2451	I11.2	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südam	383	2,01305E+13	M	1961
+3271	M51.1	Nimme ja muude lülivaheketaste haigussesundid radikulopaatiaga	383	2,01405E+11	M	1961
+3372	E11.9	Insuliinisõltumatu suhkurtõbi tüsistusteta	383	2,01404E+11	M	1961
+2555	I77	Arterite ja arterioolide muud haigusseisundid	377	2,01309E+11	M	1921
+3019	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	377	2,01201E+11	M	1921
+3096	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	377	2,01311E+11	M	1921
+3225	K21.0	Tagasivooluösofagiit	377	2,01209E+13	M	1921
+3266	K29	Gastriit ja duodeniit e mao- ja kaksteistsõrmikupõletik	377	2,01307E+11	M	1921
+3334	L23	Allergiline kontaktdermatiit	377	2,01103E+11	M	1921
+2790	B35.1	Küünte nahaseenhaigustus e tiinea; kliiniliselt	375	2,01201E+13	N	1988
+2898	N76.0	Tupe ja häbeme muu põletik, äge tupepõletik	375	2,01406E+13	N	1988
+2436	J35	Suulae- [kurgu-] ja [nina-]neelumandlite kroonilised haigused	369	2,0141E+11	M	2011
+2574	H65.0	Äge seroosne keskkõrvapõletik	369	2,01306E+13	M	2011
+2599	D50	Rauavaegusaneemia	369	2,01212E+11	M	2011
+3168	H65.9	Täpsustamata mädata keskkõrvapõletik	369	2,01204E+13	M	2011
+3195	H65.0	ÄGE SEROOSNE KESKKÕRVAPÕLETIK	369	2,0141E+13	M	2011
+3323	J35.2	NEELUMANDLI HÜPERTROOFIA	369	2,01209E+13	M	2011
+2630	Z00.1	Lapse tervise tavaläbivaatus	366	2,01309E+11	t	2012
+2655	Z00.1	Lapse tervise tavaläbivaatus	366	2,0121E+11	N	2012
+3112	J00	Äge nasofarüngiit e nina-neelupõletik (tavaline nohu)	366	2,01403E+13	N	2012
+2407	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	357	2,01408E+11	N	1988
+2508	Z31.2	Eostumist kaavitav [kaasaaitav] käitlus, eostumine in vitro	357	2,01009E+11	N	1988
+2776	L71.0	Rosaatsea e roosad vinnid, suuümbruse dermatiit	357	2,01206E+13	N	1988
+2891			357	2,01311E+11	N	1988
+2915	D23.4	Naha muud healoomulised kasvajad, juustega peanahk ja kaelanahk	357	2,0101E+11	N	1988
+2948	Z01.4	Kaebusteta ja eelneva diagnoosita isiku muud eriläbivaatused ja -uurimised, günekoloogiline läbivaatus (üldine; tava-)	357	2,01401E+13	N	1988
+3108	H61.2	Väliskõrva muud haigusseisundid, vaigukork e vaikummistus	357	2,0101E+11	N	1988
+3309	Z35.0	Kõrgriskrasedusaegne juhendamine, rasedusaegne juhendamine, anamneesis viljatus	357	2,01108E+13	N	1988
+3362	Z70.8	Seksuaalse suhtumise, käitumise ja sättumuse e orienteeritusega seotud nõuandmine [seksuaalnõustamine], muu seksuaalnõustamine	357	2,0141E+13	N	1988
+2979	T29.2	Mitme kehapiirkonna põletused ja söövitused, mitme kehapiirkonna põletused mitte rohkem kui teise järgu põletuste mainimisega	356	2,01003E+11	N	1962
+2890			354	2,01105E+11	M	1965
+3152	H35.0	Taustretinopaatia ja võrkkestaveresoonte muutused	354	2,01303E+11	M	1965
+2753	Z100	Töötervishoiualane läbivaatus	353	2,01003E+13	N	1986
+2570	M51.1	Muude lülivaheketaste haigusseisundid, nimme ja muude lülivaheketaste haigussesundid radikulopaatiaga	352	2,01312E+11	M	1994
+3337	M21.6	Muud omandatud kanna ja jala moonutised	351	2,01304E+11	N	1962
+2411	E78.2	Segahüperlipideemia	333	2,01107E+11	N	1968
+2472	M51.1	Nimme ja muude lülivaheketaste haigussesundid radikulopaatiaga	333	2,01311E+11	N	1968
+2478	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	333	2,01401E+11	N	1968
+2543	Z12.4	Eri-sõeluuring emakakaelakasvaja avastamiseks	333	2,01107E+11	N	1968
+2625	B35.1	Küünte nahaseenhaigustus e tiinea	333	2,0131E+11	N	1968
+2631	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	333	2,01407E+13	N	1968
+2668	D25.1	Emaka leiomüoom, emaka intramuraalne leiomüoom	333	2,01204E+11	N	1968
+2727	K58.9	Soole ärritussündroom ilma diarröata	333	2,01201E+11	N	1968
+2821	M54.6	Valu lülisamba rinnaosas	333	2,01411E+11	N	1968
+2830	R51	Peavalu	333	2,01304E+11	N	1968
+2847	M25.5	Liigesevalu	333	2,01208E+11	N	1968
+2856	G52.7	Kraniaalnärvide hulgihaigusseisundid	333	2,01304E+11	N	1968
+2944	M79.1	Lihasevalu e müalgia	333	2,01212E+11	N	1968
+3170	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	333	2,01409E+13	N	1968
+3229	M17.0	Esmane kahepoolne gonartroos	333	2,0131E+11	N	1968
+3238	G56.0	Karpaaltunneli sündroom	333	2,01409E+11	N	1968
+3279	R10.4	Muu ja täpsustamata kõhuvalu	333	2,01404E+11	N	1968
+3297	M51.1	Nimme ja muude l�livaheketaste haigussesundid radikulopaatiaga	333	2,01112E+11	N	1968
+2525	J45.0	Valdavalt allergiline astma	328	2,01403E+13	M	2006
+2817	J45.0	Valdavalt allergiline astma	328	2,01301E+13	M	2006
+2863	Q38.1	Keelekidasus e anküloglossia	328	2,01003E+13	M	2006
+3015	S93.6	Muude ja Tta pöia osade distorsioon ja distensioon	328	2,01107E+13	M	2006
+3095	J00	Äge nasofarüngiit e nina-neelupõletik (tavaline nohu)	328	2,01201E+11	M	2006
+2477	M21.4	LAMPJALG (OMANDATUD)	310	2,01312E+13	N	1934
+2495	I20.8	STENOKARDIA MUUD VORMID	310	2,01403E+13	N	1934
+2524	J45.8	SEGATÜÜPI ASTMA	310	2,0121E+13	N	1934
+2799	R04.0	NINAVEREJOOKS E EPISTAKS {EPISTAXIS}	310	2,01304E+13	N	1934
+2876	I25.2	Varasem müokardiinfarkt	310	2,01311E+13	N	1934
+2999	E11.5	INSULIINSÕLTUMATU SUHKURTÕBI PERIFEERSETE VERERINGETÜSISTUSTEGA	310	2,01304E+13	N	1934
+3077	I48	KODADE VIRVENDUS JA LAPERDUS	310	2,01207E+13	N	1934
+3093	Z71.8	MUU TÄPSUSTATUD NÕUSTAMINE	310	2,01212E+13	N	1934
+3135	K57.3	JÄMESOOLE SOPISTISTÕBI ILMA PERFORATSIOONI VÕI ABSTSESSITA	310	2,01201E+13	N	1934
+3158	I20.8	STENOKARDIA MUUD VORMID	310	2,01405E+13	N	1934
+3172	M79.2	Täpsustamata närvivalu e neuralgia ja närvipōletik e neuriit	310	2,01407E+13	N	1934
+3196	H25.1	Seniilne nukleaarkatarakt e tuumakae	310	2,01403E+11	N	1934
+3250	E05.2	TÜR[E]OTOKSIKOOS TOKSILISE HULGISÕLMELISE STRUUMAGA	310	2,01112E+13	N	1934
+3256	I25.2	Varasem müokardiinfarkt	310	2,01303E+13	N	1934
+3294	H65.4	MUU KROONILINE MÄDATA KESKKÕRVAPÕLETIK	310	2,01107E+13	N	1934
+3358	E05.1	TÜR[E]OTOKSIKOOS ÜKSIKU TOKSILISE KILPNÄÄRMESÕLMEGA	310	2,01403E+13	N	1934
+3373	Z01.3	VERERÕHU MÕÕTMINE	310	2,01312E+13	N	1934
+3394	K25.7	MAOHAAVAND, KROONILINE ILMA HEMORRAAGIA VÕI PERFORATSIOONITA	310	2,0141E+13	N	1934
+2606	Q66.0	Jalgade kaasasündinud deformsused, püst-sissepöördjalg	306	2,01409E+13	N	1956
+3020	Q66.0	Jalgade kaasasündinud deformsused, püst-sissepöördjalg	306	2,01202E+13	N	1956
+3283	Z03.3	Jälgimine kahtlustatud närvisüsteemi häire suhtes	306	2,01204E+13	N	1956
+3331	Z03.5	jälgimine muu kahtlustatud kardiovaskulaarse haiguse suhtes	306	2,01206E+13	N	1956
+2465	I67.4	Hüpertensiivne entsefalopaatia	302	2,01107E+11	N	1931
+2767	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	302	2,01405E+11	N	1931
+2858	Z76.0	Korduva ordinatsiooni väljaandmine	302	2,01403E+11	N	1931
+3300	H81.8	Vestibulaarfunktsiooni muud haigusseisundid	302	2,01105E+11	N	1931
+2523	M16.0	Esmane kahepoolne koksartroos	297	2,01207E+13	N	1940
+2553	Z09.0	Korduv läbivaatus pärast muude seisundite kirurgilist ravi	297	2,01408E+13	N	1940
+2777	R10.1	Ülakõhuvalu	297	2,01305E+11	N	1940
+2917	M16.1	Muud esmased koksartroosid	297	2,01405E+13	N	1940
+3163	M16.0	Esmane kahepoolne koksartroos	297	2,01203E+11	N	1940
+2987	L70.0	Acne vulgaris	296	2,0101E+13	M	1980
+2572	S81.8	Sääre muude osade lahtine haav	291	2,01406E+13	M	2005
+2717	S81.8	Sääre muude osade lahtine haav	291	2,01406E+13	M	2005
+3190	F90.0	AKTIIVSUS- JA TÄHELEPANUHÄIRE	291	2,01312E+13	M	2005
+3254	S81.8	Sääre muude osade lahtine haav	291	2,01407E+13	M	2005
+3299	S70.1	Reiekontusioon	291	2,01209E+13	M	2005
+2404	T20.2	Pea ja kaela teise järgu põletus	290	2,01205E+13	M	1990
+2895	H36.0	Diabeetiline retinopaatia	286	2,01109E+11	M	1951
+2928	K21.0	Ösofagiit gastro-ösofageaalse tagasivooluhaigusega	286	2,01009E+11	M	1951
+3028	E11.1	Insuliinisõltumatu suhkurtõbi ketoatsidoosiga	286	2,01201E+11	M	1951
+3315	F06.32	Orgaaniline depressioon	286	2,01208E+13	M	1951
+2904	Z32.1	Rasedusläbivaatus ja -testimine, kinnitatud rasedus	285	2,0121E+13	N	1993
+2528	I11.9	Südamekahjustusega hüpertooniatõbi, südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	281	2,01211E+13	M	1964
+2587	H61.2	Vaigukork e vaikummistus	281	2,01106E+11	M	1964
+2983	L03.2	Tselluliit, näo tselluliit	281	2,01312E+13	M	1964
+3138	Z02.7	Meditsiinitõendi väljaandmine	281	2,01205E+11	M	1964
+2621	Z100	Töötervishoiualane läbivaatus	274	2,01403E+13	M	1978
+2756	L40.0	Psoriasis vulgaris	274	2,01104E+13	M	1978
+2763	E66	Rasvumus	274	2,01305E+11	M	1978
+2845	B97.7	Papilloomiviirus mk haiguste tekitajana	274	2,01409E+11	M	1978
+2967	J35.1	Suulaemandlite hüpertroofia	274	2,01103E+11	M	1978
+3241	L23.9	Täpsustamata põhjusega allergiline kontaktdermatiit	274	2,01408E+11	M	1978
+3285	M54.1	Radikulopaatia	274	2,01107E+11	M	1978
+2977	F21	Skisotüüpne häire	271	2,01206E+13	M	1990
+2997	F21	Skisotüüpne häire	271	2,01101E+13	M	1990
+3288	F21	Skisotüüpne häire	271	2,01002E+13	M	1990
+3398	K04.5	Periodontitis apicalis chronica	270	2,01006E+13	M	1991
+2669	J35.0	Suulae- [kurgu-] ja [nina-]neelumandlite kroonilised haigused, krooniline mandlipõletik e tonsilliit	268	2,01004E+11	M	1969
+3094	J35.0	Suulae- [kurgu-] ja [nina-]neelumandlite kroonilised haigused, krooniline mandlipõletik e tonsilliit	268	2,01011E+11	M	1969
+3379	L98.8	Naha ja nahaaluskoe muud täpsustatud haigusseisundid; dyskeratosis exfoliativa(kl)	267	2,01003E+13	M	2007
+3092	L70	Akne e vinnid	266	20130424	M	1986
+2573	M54.5	Nimmevalu	260	2,01404E+11	N	1960
+2633	M48.0	Lülisambakanali kitsenemine e spinaalstenoos	260	2,01412E+11	N	1960
+2764	M54.1	Radikulopaatia	260	2,01204E+11	N	1960
+2894	M54.1	Radikulopaatia	260	2,01206E+11	N	1960
+2945	L23.9	Täpsustamata põhjusega allergiline kontaktdermatiit	260	2,01012E+11	N	1960
+3327	M48.0	Lülisambakanali kitsenemine e spinaalstenoos	260	2,01311E+11	N	1960
+2434	K29.5	Täpsustamata krooniline gastriit	251	2,0121E+11	N	1941
+2480	Z03	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine	251	2,01106E+11	N	1941
+2557	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	251	2,01312E+11	N	1941
+2690	Z04.8	Läbivaatus ja jälgimine teistel täpsustatud pōhjustel	251	2,0121E+13	N	1941
+2868	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	251	2,01302E+11	N	1941
+2989	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	251	2,01408E+11	N	1941
+3010	J44.9	Täpsustamata krooniline obstruktiivne kopsuhaigus	251	2,01109E+13	N	1941
+3066	J45.8	Segatüüpi astma	251	2,01205E+13	N	1941
+3272	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	251	2,0121E+13	N	1941
+2623	F20.01	Par.skisofr. - episoodiline süveneva defektiga	249	2,01404E+11	N	1961
+3048	Z12.4	Eri-sõeluuring emakakaelakasvaja avastamiseks	249	2,01401E+13		
+2653	C61	Eesnäärme pahaloomuline kasvaja	247	2,01212E+13	M	1954
+2882	C61	Eesnäärme pahaloomuline kasvaja	247	2,0131E+13	M	1954
+2486	J39.3	Ülemiste hingamisteede ülitundlikkusreaktsioon, paige täpsus	239	2,01108E+13	M	2010
+2725	L08.0	Mädanahk e püodermia	239	2,0101E+13	M	2010
+2754	B37.0	Kandidastomatiit	239	2,01109E+11	M	2010
+2797	K12.1	Muud stomatiidivormid	239	2,01109E+11	M	2010
+2875	M35.9	Sidekoe täpsustamata süsteemne haaratus	239	2,01209E+13	M	2010
+2926	N39.0	Kuseelundite muud haigusseisundid, kuseteede nakkus täpsustamata paikmes	239	2,01011E+11	M	2010
+3134	G83.8	Muud täpsustatud halvatussündroomid	239	2,01412E+11	M	2010
+3326	D71	Polümorftuumaste neutrofiilide talitlushäired	239	2,0141E+13	M	2010
+2731	G20	Parkinsoni tõbi	238	2,01404E+11	N	1948
+2719	H91.2	Idiopaatiline äkk-kuulmisnõrkus; dex	231	2,01001E+13	N	1972
+2728	H91.2	Idiopaatiline äkk-kuulmisnõrkus	231	2,01106E+13	N	1972
+3059	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	231	2,01412E+13	N	1972
+3072	H52.4	PRESBÜOOPIA E VANAEANÄGEVUS	231	2,01409E+13	N	1972
+3175	B07	Viirustüükad [soolatüükad]	231	2,01207E+13	N	1972
+3264	H91.2	Idiopaatiline äkk-kuulmisnõrkus; dex	231	2,01001E+13	N	1972
+3352	F41.1	GENERALISEERUNUD ÄREVUSHÄIRE	231	2,01301E+13	N	1972
+2489	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	225	2,01401E+11	N	1929
+2644	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	225	2,01406E+11	N	1929
+2760	I11	Südamekahjustusega hüpertooniatõbi	225	2,0111E+11	N	1929
+2961	I50	Südamepuudulikkus	225	2,01305E+11	N	1929
+3109	I11	Südamekahjustusega hüpertooniatõbi	225	2,0131E+11	N	1929
+3117	H02.0	Lauentroop e -sissepööre ja lautrihhiaas e –karvtõbi	225	2,01109E+13	N	1929
+2757	I70.2	Ateroskleroos, jäsemete arterite ateroskleroos	222	2,01309E+13	M	1947
+3046	I70.2	Ateroskleroos, jäsemete arterite ateroskleroos	222	2,01301E+13	M	1947
+3268	K74.6	Muu ja täpsustamata maksatsirroos	222	2,01411E+13	M	1947
+2517	E10.3	Insuliinisõltuv suhkurtõbi, insuliinisõltuv suhkurtõbi silmatüsistustega	219	2,01302E+13	M	1969
+2850	Z94.0	Neerusiiriku seisund	219	2,0121E+13	M	1969
+3365	E10.7	Insuliinisōltuv suhkurtōbi hulgitüsistustega	219	2,01005E+13	M	1969
+2440	D51.9	Täpsustamata b12 vitamiinivaegusaneemia	205	2,01207E+11	N	1935
+2560	M51.1	Nimme ja muude l�livaheketaste haigussesundid radikulopaatiaga	205	2,01112E+11	N	1935
+2563	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	205	2,01405E+11	N	1935
+2682	G47.0	Uinumise ja une säilitamise häired [insomniad]	205	2,01104E+11	N	1935
+2683	M72	Fibroplastilised haigusseisundid	205	2,01105E+11	N	1935
+2708	M81.0	Menopausijärgne osteoporoos	205	2,01401E+11	N	1935
+2733	I11.0	S�damekahjustusega h�pertooniat�bi (kongestiivse) s�damepuudulikkusega	205	2,01111E+11	N	1935
+2870	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	205	2,0121E+11	N	1935
+2901	H93.1	Kõrvavile e tinnitus	205	2,01404E+11	N	1935
+2913	G44.8	Muud peavalusündroomid, muud täpsustatud peavalusündroomid	205	2,01005E+11	N	1935
+3165	M24.2	Sidemete e ligamentide haigusseisundid	205	2,01403E+13	N	1935
+3173	M17.0	Esmane kahepoolne gonartroos	205	2,01306E+11	N	1935
+3234	M24.2	Sidemete e ligamentide haigusseisundid	205	2,01403E+13	N	1935
+3246	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	205	2,01212E+11	N	1935
+2519	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	200	2,01208E+13	M	1945
+2964	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom; Glaukoom, primaarne avatud- e lahtisenurga glaukoom	200	2,01108E+13	M	1945
+3081	I11.9	Südamekahjustusega hüpertooniatõbi ilma (kongestiivse) südamepuudulikkuseta	200	2,01103E+11	M	1945
+3194	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	200	2,01204E+13	M	1945
+3336	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	200	2,01402E+13	M	1945
+2503	C30.0	Ninaōōne PK	191	2,01312E+13	N	1961
+2778	G71.3	MKta mitokondriaalne müopaatia	191	2,01204E+13	N	1961
+2789	H53.0	Anopsiaamblüoopia e silmakasutamatusamblüoopia e -nõrknägevus	191	2,01301E+11	N	1961
+2800	G62.9	Täpsustamata polüneuropaatia	191	2,01103E+11	N	1961
+2807	J01	Äge sinu[s]iit e ninakõrvalurkepõletik	191	2,01306E+11	N	1961
+2930	C30.0	Ninaōōne PK	191	2,01311E+13	N	1961
+3103	G71.3	MKta mitokondriaalne müopaatia	191	2,01109E+13	N	1961
+3220	C30.0	Ninaōōne PK	191	2,01407E+13	N	1961
+3340	J06.8	Muud ägedad ülemiste hingamisteede hulgipaikmelised nakkused	191	2,01305E+13	N	1961
+3157	N31.1	Mkta reflektoorne neuropaatiline kusepõis	190	2,01102E+11	M	1972
+2575	Z10.0	Töötervishoiualane läbivaatus	187	2,0141E+13	M	1964
+3305	M75.1	Traumaatilisena täpsustamata kõõluskätise või harjaülise lihase (osaline; täielik) rebend; Parem õlg	187	2,01003E+13	M	1964
+3345	M75.0	Õla liiteline liigesekihnupõletik e adhesiivne kapsuliit	187	2,01406E+11	M	1964
+2671	J02	Äge farüngiit e neelupõletik	186	2,01406E+11	N	1987
+2494	H52.4	Presbüoopia e vanaeanägevus	184	2,01212E+11	N	1949
+3324	D05	Rinnakartsinoom in situ	184	2,01411E+11	N	1949
+2693	Z03.8	Kahtlustatud haiguste ja seisundite meditsiiniline jälgimine ja hindamine, jälgimine muude kahtlustatud haiguste ja seisundite suhtes	182	2,01407E+13	N	1983
+3186	M54.4	Lumbaago ishiasega	182	2,01109E+11	N	1983
+2968	H10.8	Muu konjunktiviit	181	2,01207E+11	N	1959
+2461	I48	Kodade virvendus ja laperdus	173	2,01203E+11	N	1930
+2562	L23.9	Täpsustamata põhjusega allergiline kontaktdermatiit	173	2,01305E+11	N	1930
+2612	I48	Kodade virvendus ja laperdus	173	2,01108E+11	N	1930
+2806	I48	Kodade virvendus ja laperdus	173	2,01201E+11	N	1930
+2816	I48	Kodade virvendus ja laperdus	173	2,0131E+11	N	1930
+2920	I48	Kodade virvendus ja laperdus	173	2,01304E+11	N	1930
+3287	M16.7	Muud teisesed koksartroosid	173	2,01103E+11	N	1930
+3341	I48	Kodade virvendus ja laperdus	173	2,01302E+11	N	1930
+3130	J20.0	Mycoplasma pneumoniae tekkene äge bronhiit	171	2,01302E+11	N	1987
+3199	R10.3	Kõhu- ja vaagnapiirkonna valu, alakõhu muudes piirkondades lokaliseerunud valu	171	2,01201E+13	N	1987
+2449	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	163	2,01102E+11	M	1945
+2488	H40.1	Primaarne avatud- e lahtisenurga glaukoom	163	2,01302E+11	M	1945
+2533	M79.1	Lihasevalu e müalgia	163	2,00905E+11	M	1945
+2768	I49.3	Vatsakeste enneaegne depolarisatsioon	163	2,01211E+11	M	1945
+2779	I49.3	Vatsakeste enneaegne depolarisatsioon	163	2,01209E+11	M	1945
+2784	E03.2	Ravimite ja muude eksogeensete ainete põhjustatud hüpotüreoos	163	2,01303E+11	M	1945
+2871	I10	Hüpertooniatõbi e essentsiaalne arteriaalne hüpertensioon	163	2,01103E+11	M	1945
+3360	I47.2	Ventrikulaarne tahhükardia	163	2,01202E+11	M	1945
+2740	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	159	2,01303E+11	N	1932
+2839	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	159	2,01407E+11	N	1932
+3125	I48	Kodade virvendus ja laperdus	159	2,0101E+11	N	1932
+3338	I11.0	Südamekahjustusega hüpertooniatõbi (kongestiivse) südamepuudulikkusega	159	2,01308E+11	N	1932
+2597	D25.1	Emaka intramuraalne leiomüoom	157	2,01309E+13	N	1955
+2966	Z24.1	Immuniseerimise vajadus teatava üksiku viirushaiguse vastu, immuniseerimise vajadus lülijalgselevitatava viirusentsefaliidi vastu	157	2,01307E+13	N	1955
+2422	M32.8	Süsteemse erütematoosluupuse muud vormid	151	2,01009E+11	N	1983
+2482	L98.9	Naha ja nahaaluskoe täpsustamata haigusseisund	151	2,01006E+13	N	1983
+2866	O82.1	Erakorraline keisrilõikesünnitus	151	2,0141E+13	N	1983
+3026	Z01.4	Kaebusteta ja eelneva diagnoosita isiku günekoloogiline läbivaatus (üldine; tava-)	151	2,01401E+13	N	1983
+3275	M32.8	Süsteemse erütematoosluupuse muud vormid	151	2,0121E+13	N	1983
+3277	M32.1	Süsteemne erütematoosluupus elundi või süsteemi haaratusega	151	2,01107E+13	N	1983
+3056	R73	Glükoosi e suhkrusisalduse suurenemine veres	148	2,01312E+11	M	1961
+3174	N41.1	Krooniline prostatiit	148	2,01311E+11	M	1961
+3261	E78.0	Puhas hüperkolesteroleemia	148	2,01211E+11	M	1961
+2700	I11	Südamekahjustusega hüpertooniatõbi	146	2,01202E+11	M	1957
+2899	M54.5	Nimmevalu	146	2,01306E+11	M	1957
+2613	Z96.1	Silmasisese e intraokulaarse läätse olemasolu	144	2,01203E+13	N	1928
+3144	I74.3	Alajäsemete arterite emboolia ja tromboos	144	2,01212E+11	N	1928
+2462	I11.9	Südamekahjustusega hüpertooniatōbi ilma (kongestiivse) südamepuudulikkuseta	137	2,01311E+13	N	1940
+2825	N64.8	Rinna muud haigusseisundid, rinna muud täpsustatud haigusseisundid	137	2,01302E+13	N	1940
+2975	E04.2	Mittetoksiline hulgisõlmeline struuma	137	2,01204E+11	N	1940
+3034	M81.0	Patoloogilise murruta osteoporoos, menopausijärgne osteoporoos	137	2,0141E+13	N	1940
+3110	I70.2	Jäsemete arterite ateroskleroos	137	2,01202E+13	N	1940
+3280	I70.2	Jäsemete arterite ateroskleroos	137	2,01305E+11	f	1940
+3291	Z03.3	Jälgimine kahtlustatud närvisüsteemi häire suhtes	137	2,0131E+13	N	1940
+2408	M54.1	Radikulopaatia	133	2,01104E+11	M	1957
+2437	M75.1	Õlavarre pöörajalihaste kõõluskätise sündroom	133	2,01305E+11	M	1957
+2651	M75.1	Õlavarre pöörajalihaste kõõluskätise sündroom	133	2,01303E+11	M	1957
+2679	Z12.1	Eri-sõeluuring soolekasvaja avastamiseks	133	2,01412E+13		
+2596	N91.4	Sekundaarne oligomenorröa e harv menstruatsioon	130	2,01307E+11	N	1961
+2601	J45.8	Segatüüpi astma	130	2,01312E+13	N	1961
+2661	H52.2	Astigmatismus	130	2,01008E+11	N	1961
+2402	I42	KARDIOMÜOPAATIA	129	2,0121E+13	M	1972
+2520	M43.1	Lülilibisemine e spondülolistees	126	2,01301E+13	N	1952
+2720	I70.0	Aordiateroskleroos	126	2,01012E+13	N	1952
+2837	E03.8	Muu täpsustatud hüpotür[e]oidism	126	2,01208E+13	N	1952
+2522	H52.0	Hüpermetroopia e kaugelenägevus	119	2,01303E+13	M	2009
+2583	J35.2	[Nina-]neelumandli [adenoidide] suurenemine	119	2,01011E+13	M	2009
+2617	B07	Harilik tüügas	119	2,01111E+13	M	2009
+2732	Z04.8	Läbivaatus ja jälgimine teistel täpsustatud põhjustel	119	2,01401E+13	M	2009
+2921	H66.0	Äge mädane keskkõrvapõletik	119	2,01106E+13	M	2009
+2962	G40.8	Epilepsiad ja epileptilised sündroomid, mille puhul pole selgitatud kas nad on fokaalsed või generaliseerunud	119	2,01006E+13	M	2009
+3387	H65.0	Äge seroosne keskkõrvapõletik	119	2,01103E+11	M	2009
+3301	K35.0	ÄGE APENDITSIIT GENERALISEERUNUD PERITONIIDIGA	118	2,0131E+13	N	1997
+2455	D18.0	Angioma NAS	108	2,01105E+13	N	1991
+2469	A08.4	Soole täpsustamata viirusnakkus	108	2,01009E+13	N	1991
+2485	G93.0	Arahnoidtsüst	108	2,01304E+13	N	1991
+2515	D22.5	Kere melanotsüütneevused	108	2,01205E+13	N	1991
+2607	K58.9	Soole ärritussündroom ilma diarröata; meteorism	108	2,01205E+13	N	1991
+3146	D27	Munasarja healoomuline kasvaja; Cysta ovarii sin	108	2,01003E+13	N	1991
+3185	O80.0	Iseeneslik peaseis-sünnitus	108	2,01404E+13	N	1991
+3200	Z34.0	Esimese normaalrasedusaegne juhendamine	108	2,01403E+13	N	1991
+3252	J02	Äge farüngiit e neelupõletik	108	2,01111E+11	f	1991
+3260	J93.0	Iseeneslik e spontaanne pingsus-õhkrind	108	2,01106E+13	N	1991
+2658	J84.9	Muud interstitsiaalsed kopsuhaigused, täpsustamata interstitsiaalne kopsuhaigus	105	2,01009E+11	N	1951
+2959	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom; os	105	2,01105E+13	N	1951
+3016	H40.1	Glaukoom, primaarne avatud- e lahtisenurga glaukoom	105	2,01403E+13	N	1951
+2475	K02.1	Dentiinisööbija	99	2,0131E+13	N	1998
+2603	M25.8	Liigese muud täpsustatud haigusseisundid	99	2,01407E+13	N	1998
+2714	H52.1	MÜOOPIA E LÜHINÄGEVUS	99	2,0141E+13	N	1998
+2922	M25.8	Liigese muud täpsustatud haigusseisundid	99	2,01412E+13	N	1998
+3286	K02.1	Dentiinisööbija	99	2,01404E+13	N	1998
+3346	D22.5	Kere melanotsüütneevused	99	2,01309E+13	N	1998
+2578	H52.2	Astigmatism	95	2,01203E+13	M	2005
+2758	J18.8	Muu kopsupõletik, tekitaja tuvastamata	95	2,01004E+13	M	2005
+2794	R51	Peavalu	95	2,01305E+13	M	2005
+3070	J02.9	Täpsustamata äge neelupõletik	95	2,01411E+11	M	2005
+2710	M80.9	Patoloogilise murruga täpsustamata osteoporoos	86	2,01407E+11	N	1938
+2741	S42.2	Õlavarreluu kirurgilise kaela ja ülemise epifüüsi murd	86	2,01305E+13	N	1938
+2829	M19	Muud artroosid	86	2,01204E+11	N	1938
+2833	Z03.8	Jälgimine muude kahtlustatud haiguste ja seisundite suhtes	86	2,0131E+11	N	1938
+2995	I35.0	Aordiklapi mittereumaatiline stenoos	86	2,01301E+13	N	1938
+3033	L57.0	KIIRGUSKERATOOS E -SARVESTU(MU)S	86	2,01401E+13	N	1938
+3089	M19	Muud artroosid	86	2,01401E+11	N	1938
+3164	G47	Unehäired	86	2,01203E+11	N	1938
+3226	L72.1	KARVANÄÄPSU- E TRIHHILEMMITSÜST	86	2,01401E+13	N	1938
+2507	C44.3	Näo muude ja täpsustamata osade nahk	85	2,01009E+13	N	1930
+2996	K10.2	Lõualuu (äge; krooniline; mädane) osteiit; osteomüeliit (vastsündinul); osteoradionekroos; periostiit	81	2,01404E+13	M	1961
+3155	K21.0	Ösofagiit gastro-ösofageaalse tagasivooluhaigusega	81	2,01308E+11	M	1961
+3320	K21.0	Ösofagiit gastro-ösofageaalse tagasivooluhaigusega	81	2,01008E+11	M	1961
+3325	K10.2	Lõualuu (äge; krooniline; mädane) osteiit; osteomüeliit (vastsündinul); osteoradionekroos; periostiit	81	2,01401E+13	M	1961
+2405	E11.9	Insuliinisõltumatu suhkurtõbi tüsistusteta	79	2,0121E+13	M	1927
+2674	E11.9	Insuliinisõltumatu suhkurtõbi tüsistusteta	79	2,01103E+13	M	1927
+2834	R10.4	Kõhu- ja vaagnapiirkonna valu, muu ja täpsustamata kõhuvalu	77	2,0141E+13	M	2982
+2835	L23.8	Muude toimurite põhjustatud allergiline kontaktdermatiit	77	2,00912E+11	M	1982
+2689	H52.1	MÜOOPIA E LÜHINÄGEVUS	68	2,01112E+13	M	2004
+2879	R14	Meteorism e kõhupuhitus ja selletaolised           haigusseisundid	68	2,01409E+13	M	2004
+2924	H52.1	MÜOOPIA E LÜHINÄGEVUS	68	2,01207E+13	M	2004
+3038	R51	Peavalu	68	2,01404E+13	M	2004
+3045	K02.1	Dentiinisööbija	68	2,01102E+13	M	2004
+3132	R11	Iiveldus ja oksendamine	68	2,01404E+13	M	2004
+3167	H52.1	MÜOOPIA E LÜHINÄGEVUS	68	2,01303E+13	M	2004
+3267	J10.1	Gripp koos muude respiratoorsete ilmingutega, gripiviirus tuvastatud	68	2,01203E+11	M	2004
+3313	J30.1	Õietolmu põhjustatud allergiline riniit	68	2,01409E+11	M	2004
+2458	M06.4	Muud reumatoidartriidid, põletikuline hulgiliigesepõletik e polüartropaatia	65	2,01203E+13	N	1945
+2500			65	2,01402E+11	N	1945
+3177	H93.1	KÕRVAVILE E TINNITUS	65	2,01403E+13	N	1945
+2548	A84	PUUKENTSEFALIIDID	55	2,01407E+13	M	1980
+2593	K62	MUUD PÄRASOOLE- JA PÄRAKUHAIGUSED	55	2,01307E+13	M	1980
+2877	N47	Liigprepuutsium e -eesnahk, fimoos e eesnahakitsenemus ja pa	55	2,01105E+13	M	1980
+3003	L23.2	Kosmeetikumide pōhjustatud allergiline kontaktdermatiit	55	2,01411E+13	M	1980
+3011	H60.9	TÄPSUSTAMATA VÄLISKÕRVAPÕLETIK	55	2,01112E+13	M	1980
+3017	I84	Hemorroidid e päraku veenikomud	55	2,01411E+11	M	1980
+3029	K29.9	TÄPSUSTAMATA GASTRODUODENIIT	55	2,01107E+13	M	1980
+3031	Z03.8	JÄLGIMINE MUUDE KAHTLUSTATUD HAIGUSTE JA SEISUNDITE SUHTES	55	2,01205E+13	M	1980
+3133	N50.8	Meessuguelundite muud täpsustatud haigusseisundid	55	2,01311E+13	M	1980
+3242	J02.9	TÄPSUSTAMATA ÄGE NEELUPÕLETIK	55	2,01402E+13	M	1980
+2723	L01.0	Impetiigo [mistahes organism; mistahes paikmes]	53	2,01407E+13	M	2013
+2889	Z27.3	Immuniseerimise vajadus difteeria-teetanuse-läkaköha ja poliomüeliidi vastu	53	2,01312E+11	M	2013
+2980	L20.8	Muu atoopiline dermatiit	52	2,01402E+13	N	0
+3201	Z76.0	Korduva ordinatsiooni väljaandmine	50	2,01308E+11	M	1947
+3397			50	2,01403E+11	M	1947
+2602	J06.9	Täpsustamata ägedad ülemiste hingamisteede nakkused	46	2,01203E+13	M	2009
+2695	A08.1	Norwalki viiruse tekkene äge gastroenteropaatia	46	2,01105E+13	M	2009
+3023	H65.1	Äge ja alaäge keskkõrvapõletik	46	2,01203E+13	M	2009
+3278	R05	Köha	46	2,01108E+11	M	2009
+2897	M51.1	Nimme ja muude lülivaheketaste haigussesundid radikulopaatiaga	45	2,0131E+11	N	1972
+2479	Z00.1	Lapse tervise tavaläbivaatus	37	2,01404E+11	M	2013
+2547	Z00.1	Lapse tervise tavaläbivaatus	37	2,01406E+11	M	2013
+2608	H65	Mädata keskkõrvapõletik	37	2,01401E+11	M	2013
+2634	Z00.1	Lapse tervise tavaläbivaatus	37	2,0131E+11	M	2013
+2640	H65	Mädata keskkõrvapõletik	37	2,01403E+11	M	2013
+3198	Z00.1	Lapse tervise tavaläbivaatus	37	2,01309E+11	p	2013
+3245	H65.0	Äge seroosne keskkõrvapõletik	37	2,01407E+11	M	2013
+3396	Z39.0	Sünnitusjärgne hooldus ja jälgimine tüsistuseta juhtudel	37	2,01308E+13	M	2013
+2610	S62.6	Muu sõrmemurd	35	2,01005E+13	M	1998
+2881	H52.1	MÜOOPIA E LÜHINÄGEVUS	35	2,01201E+13	M	1998
+2428	Z01.1	Kaebusteta ja eelneva diagnoosita isiku muud eriläbivaatused ja -uurimised, kõrvade läbivaatus ja kuulmise uurimine	30	2,01309E+13	M	2010
+2628	J06.9	TÄPSUSTAMATA ÄGEDAD ÜLEMISTE HINGAMISTEEDE NAKKUSED	30	2,01312E+13	M	2010
+2722	Z03.3	Jälgimine kahtlustatud närvisüsteemi häire suhtes	30	2,01204E+13	M	2010
+2883	Z03.3	Jälgimine kahtlustatud närvisüsteemi häire suhtes	30	2,01205E+13	M	2010
+3370	R62.0	Hilinenud arengutähis {Delayed milestone}	30	2,01405E+13	M	2010
+2774	C18.3	Maksmine e parem käärsoolekoold	26	2,01306E+13	N	1964
+2888	C18.3	Maksmine e parem käärsoolekoolde PK	26	2,01311E+13	N	1964
+2933	C18.3	Maksmine e parem käärsoolekoolde PK	26	2,01307E+13	N	1964
+3071	C18.3	Maksmine e parem käärsoolekoolde PK	26	2,01309E+13	N	1964
+2594	J06.0	Äge kõri-neelupõletik e larüngofarüngiit	23	20130219	M	1993
+2855	I10	HÜPERTOONIATÕBI E ESSENTSIAALNE ARTERIAALNE HÜPERTENSIOON	23	2,01412E+13	M	1993
+3179	E66	Rasvumus	23	20130914	M	1993
+2409	L89	Dekuubitus- e lamatishaavand	17	2,01309E+11	M	1994
+2600	J06	Ülemiste hingamisteede hulgi ja tta paikmega ägedad nakkused	17	2,01401E+11	M	1994
+3022	L89	Dekuubitus- e lamatishaavand	17	2,01105E+13	M	1994
+3050	Q05.2	Lumbaalne lülisambalõhestus hüdrotsefaaliaga	17	2,0131E+11	M	1994
+3051	L89	Dekuubitus- e lamatishaavand	17	2,01105E+13	M	1994
+3223	A41.9	Täpsustamata septitseemia	17	2,01404E+11	M	1994
+2430	M51.1	Nimme ja muude lülivaheketaste haigussesundid radi	9	20121001	N	1974
+2667	J02	Äge farüngiit e neelupõletik	9	20141207	N	1974
+2697	A09	Oletatavalt nakkusliku päritoluga kõhulahtisus  ja	9	20131201	N	1974
+2759	O04.9	Täielik või täpsustamata, tüsistusteta meditsiiniline abort; Ab. medicinalis in hebd. 21+6. Kaksikrasedus, millest üks arenenud põismooliks	9	2,01112E+13	N	1974
+2762	J04	Äge kõripõletik e larüngiit ja hingetorupõletik e	9	20120506	N	1974
+2951	N93.8	Emaka ja tupe muu täpsustatud anomaalne verejooks	9	2,01112E+11	N	1974
+2958	K80.2	Sapikivi ilma koletsüstiidita	9	2,01202E+11	N	1974
+3032	Z36.0	Kromosoomianomaaliate sünnituseelne sõeluuring	9	2,0111E+13	N	1974
+2432	S20.7	Rindkere pindmised hulgivigastused	8	2,01202E+13	N	1984
+3075	B34.9	Täpsustamata viirusnakkus	5	2,01202E+11	N	2006
+3202	Z00.1	Lapse tervise tavaläbivaatus	5	2,00612E+11	N	2006
+3316	Z00.1	Lapse tervise tavaläbivaatus	5	2,00608E+11	f	2006
+2492	N11.9	Täpsustamata krooniline tubulointerstitsiaalnefriit	1	2,01403E+11	N	1932
+2605	I70.2	Jäsemete arterite ateroskleroos	1	2,01105E+11	N	1932
+2752	I70.2	Jäsemete arterite ateroskleroos	1	2,01112E+11	N	1932
+2803	I70.2	Jäsemete arterite ateroskleroos	1	2,01402E+11	N	1932
